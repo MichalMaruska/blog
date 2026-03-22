@@ -1,8 +1,9 @@
----
-title: "2 Dětství a školní léta"
-date: 2003-04-23
-draft: false
----
++++
+title = "2 Dětství a školní léta"
+date = 2003-04-23
+draft = false
++++
+
 ## Předmluva
 
 Vzpomínky na dětství jsou jako pohlazením. Ranné mládí bylo pro mne šťastným obdobím k jehož zážitkům se rád
