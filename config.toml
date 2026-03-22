@@ -1,5 +1,5 @@
 # zola
-base_url = "https://michalmaruska.github.io"
+base_url = "https://michalmaruska.github.io/blog/"
 title = "My Blog"
 theme = "papaya"
 # config.extra.color_mode
