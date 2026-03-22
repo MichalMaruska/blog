@@ -5,8 +5,24 @@
   Index
 </h1>
 
+{#
+  {{ section.content | safe}}
+#}
+
+{% for subsection_path in section.subsections %}
+  {% set subsection = get_section(path=subsection_path) %}
+  <h2>Project <a href="{{ subsection.permalink }}">{{ subsection.title }}</a></h2>
+  {{ subsection.content | safe }}
+
+  {# Optionally list pages within each subsection #}
+  {% for page in subsection.pages %}
+  <h4 style="text-align: left; margin-left: 60px;">
+    <a href="{{ page.permalink }}">{{ page.title }}</a></h4>
+  {% endfor %}
+{% endfor %}
+
 {% for post in section.pages %}
-  <h1>{{ post.date}} <a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+  <h2>{{ post.date}} <a href="{{ post.permalink }}">{{ post.title }}</a></h1>
 {% endfor %}
 
 
