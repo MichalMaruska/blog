@@ -1,4 +1,15 @@
-{% extends "base-cz.html" %}
+<!DOCTYPE html>
+<html lang="cz">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
 
 {% block content %}
 <h1 class="title">
@@ -26,3 +37,9 @@
 </script>
 
 {% endblock content %}
+    </div>
+  </section>
+</body>
+
+</html>
+
