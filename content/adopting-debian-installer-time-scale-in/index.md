@@ -1,8 +1,11 @@
 ---
-title: "Story of abandoning own tool in favour of learning multiple projects and combining them"
+title: "debian-installer: story of abandoning own tool"
 date: 2023-09-04
 draft: false
 ---
+
+I used to install SID with a series of shell scripts. Then abandoned in favour of learning multiple projects and combining them.
+
 
 ## Adopting Debian Installer  (time scale)
 
