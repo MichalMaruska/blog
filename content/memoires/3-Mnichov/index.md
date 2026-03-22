@@ -1,0 +1,288 @@
+---
+title: "3 Mnichov"
+date: 2003-04-23
+draft: false
+---
+
+## Mnichov a okupace
+
+Mé studium na obchodní akademii je spojeno s osudovými týdny podzimu 1938, s okleštěním a rozbitím první republiky, s násilnou okupací zbytků Československa
+německou Třetí říší, zřízením protektorátu a zavedením fašistického Hitlerova „pořádku Nové Evropy“. Bytostně se mne dotkla zrada západních spojenců Francie a
+Velké Británie dokonaná mnichovským diktátem. Tak jako i druzí studenti jsem nemohl pochopit a uvěřit, že se něco tak hrozného může vůbec stát. Vždyť ještě
+nedávno jsem viděl na letišti ve Kbelích přehlídku letky francouzských bombardérů, které chtěly demonstrovat těsné vojenské spojenectví a sympatie pro pohost
+naší země vůči německému vydírání. Vždyť v novinách a rozhlase bylo po celé předcházející měsíce mnoho zpráv o sympatiích a pochopeni, které má pro naší
+republiku a její statečný postoj a vstřícné návrhy k požadavkům německé menšiny u nás demokratický svět a zejména Evropa. Pravda je také, že i mne mátly
+některé kroky, zejména nejednoznačné zprávy o názorech Runcimenovy mise, která tehdy měla ověřit pro anglickou vládu situaci u nás. Halo noviny, které otec
+odebíral pro potřeby odpoledních zákazníků, trávících čas v hostinci při pivu nebo kávě, byly stále více postihovány cenzurními zásahy, jež vymumovávaly celé
+sloupcce věnované zahraničně politickému a vnitřnímu zpravodajství.
+
+Mezi lidmi se šířily vedle povzbudivých hlasů i obavy. A jak se brzy ukázalo, oprávněně. Když v září škola začala, bylo o přestávkách ve třídě jako v
+úle. Nejednou jsme se se starostmi obraceli i na naše profesory. Ti však až na výjimky byli vůči nám zdrženliví. To nás také mátlo. Z dnešního pohledu je mohu
+pochopit. Vždyť nás ani nestačili blíže poznat, a možná, že některým i chybělo potřebné uvědomění nebo osobní statečnost. Měnila se situace a měnili se
+lidé. Bylo to podobné spádu, který nastal opět po 51letech, po listopadu 1989. Do Mnichovského diktátu převládala mezi lidmi odhodlání nedát si rozbít
+republiku i za cenu, že by se muselo bojovat. Stejný obraz vytvářela většina tisku a rozhlasové relace. Nezapomenu na masové shromáždění před budovou
+tehdejšího parlamentu, kdy společně vystupovali vlastenci, komunista Gottwald, národní demokrat Rašín a řada dalších bez ohledu na politickou orientaci,
+spojeni jedinou myšlenkou a odhodláním, nedát se Němcům. Jak se však vše začalo rychle po Mnichovu měnit. Benešova abdikace a jeho rozhlasový projev k národu,
+v němž jsem našel alespoň doutnající jiskřičku naděje pro budoucnost. Nástup Beranovy vlády s jejím kapitulantstvím přecházejícím postupně - a hlavně rychle-
+k patolizalství. Nebyl jsem sám, kdo hledal tehdy odpověď, jak se to mohlo stát, že naši včerejší spojenci především Francie tak hanebné a beze studu
+zradili. Jak pravdivě vyjádřil mé cítění Halas a jeho básnický protest „Zvoní, zvoní zrady zvon,...“
+
+A obdobně promlouvali k nám, ke mně, jeho druhové. Když někdy hledám odpověď na otázku, proč mne po celý život tolik vzrušovalo neplnění daného slova,
+připomínám si tuto historickou věrolomnost. Později se s ní opět setkám. Ale to bych předcházel dalším kapitolám mého vzpomínání.
+
+Po Mnichovu jsem vnímal s nepokojem změny na vnitropolitické scéně. Nástup smířlivců a kolaborantů, otevřených propagátorů spolupráce s fašistickými Němci a
+šiřitelů ducha zbabělosti a pokory. Již z dětských dob jsem měl v sobě gen husitské touhy po spravedlnosti - a nestydím se za to - lásky k své zemi a
+národu. A nyní se po těchto mých hodnotách šlapalo. O to více mne pohoršil projev pražského arcibiskupa Kašpara, který viděl tragické následky Mnichova jako
+boží trest uvalený na Čechy pro jejich bezbožnost. Podobný škleb jsem spatřil i v televizním projevu olomouckého prelátu někdy v roce 1991. Bylo jen málo
+vyjímek v katolické církevní hierarchii, kteří by v těžkých chvílí cítili se svým národem. Ještě o jedné věci se musím zmínit. Tehdy se většina politických
+stran buď sama rozpustila nebo došlo k tomu nařízeními vlády. Obdobný osud měly další demokratické organizace.
+
+Komunistické straně Beranova vláda nejdříve pozastavila činnost a pak ji rozpustila. V politickém systému druhé republiky, jak se okleštěnému státu říkalo, se vytvořila dvě seskupení. Strana národní jednoty a strana národní práce. Ta měla zahrnovat námezdně pracující. Odnoží druhé strany bylo i Národní hnutí pracující mládeže, do jehož řad vstupovali zejména mladí lidé, učňové i studenti, kteří byli před rozpuštěním členy komunistických nebo sociálně demokratických a národně socialistických mládežnických organizací. O vlivu tohoto Národního hnutí pracující mládeže na utváření mých postojů v době okupace se ještě blíže zmním.
+
+Za necelý půlrok po Mnichovu vstoupila německá vojska 15. března do Prahy. To byl pro mne další šok. V živé paměti mám postup jejich pancéřovaných aut tzv. spähwagen Karlínem a třídou Na příkopech a jejich zastávky u karlínských kasáren a před tehdejším Německým dnes Slovanským domem. Padal střídavě vlhký sníh s deštěm. My přihlížející díváci jsme byli plni zloby. Němci to museli cítit. Vojáci v zelených připláštích se celí zkřehlí dívali netečně z otevřených poklopů nebo z doprovodných motocyklů se sajdkárami. Protesty davu jakoby nevnímali. Vyučování ve škole se nekonalo. Nikdo do ničeho neměl chuť, ani profesoři ani my studenti. Když jsem se vrátil z ulice, cítil jsem doma a v naší hospodě něco jako strach z budoucnosti.
+
+Můj život šel dál. Učení mně šlo celkem snadno. Ve třídě jsem měl jen dva konkurenty o umístění nejpřednější. Usměvavého blond'áka Josefa Svárovského a brýlatého snaživce Standu Mayera. S Josefem jsme se střídali ve vedení tabulky. V archivu mám písemné uznání Mládeže Národního souručenství, podle něhož jsem se ve studijní soutěži zdatnosti ve školním roce 1939 - 1940 umístil jako druhý nejlepší žák II.A. ročníku obchodní akademie v Praze - Karlíně. Tehdy totiž Národní souručenství bylo jedinou kvazi stranou a členství v jeho mládeži bylo automatické. Později tuto organizaci nahradilo nechvalně známé Kuratorium pro výchovu mládeže, které z Heydrichova popudu založil v roce 1942 zrádcovský plukovník generálního štábu E.Moravec. Moji soupeři na rozdíl ode mne úspěšně v roce 1942 maturovali. S Josefem jsem se setkal později při padesátém výročí maturity. Po válce zůstal v armádě a v roce 1992 stále ještě pracoval v civilní složce jako vyšší proviant'ák. Mayer je už pod kytičkami.
+
+## Trampování
+
+Se spolužákem Evženem Bursou jsme v hodinách angličtiny měli společný dívčí idol. A ten jsme se rozhodli o prázdninách v
+roce 1939 navštívit. Byla s rodiči v hotýlku na Malé Skála. Ten jsme zahrnuli jako důležitý mezicíl při naší několikadenní
+pěší túře. Možná že mé cestování vzbudí váš zájem, jak se tehdy provozovala turistika nikoliv bohaté ale romantikou a
+trampstvím posedlé mládeže. Na začátek našeho putování jsme měli každý necelou stokorunu a naditý ruksak. Z konečné
+tramvaje jsme si to namířili po mladoboleslavské státní silnici směrem k severu. Několikrát jsme během dne promokli a tak
+náš batoh byl stále těžší. Pár kilometrů před Mladou Boleslaví se nám oběma zdálo, že neseme náklad, jehož váha se blíží
+metráku. A tak jsme počkali na autobus, který nás vysadil ve středu staré části města v blízkosti starého hradu. Tam jsme
+našli školu, která během prázdnin poskytovala mladým členům Klubu čs. turistů nocleh. Tehdy tato organizace, jejímiž jsme
+byli členy, vlastnila širokou síť turistických chat a nocleháren a během prázdnin si pronajímalá i osiřelé třídy ve
+školách. Vybavení noclehárny umístěné v těchto zařízeních bylo jednoduché. Vojenský kavalec. Paní školníková vybírala za
+noc a postel po jedné koruně a ochotně za další nízký poplatek uvařila kávu a k ní přidala žemli. Druhý den jsme podle
+plánu vyrazili na Michalskou putnu. Tato zřícenina s dosud zachovalou věží se vypínala na protějším břehu Jizery.
+
+
+Sundali jsme si boty a svázali je do uzlíku a přebrodili boleslavský jez. Vody nebylo moc. Na druhém břehu jsme nakoupili od selky vejce a pod Putnou na břehu řeky jsme
+připravili oheň. Měli jsme dva ešusy fungl nové koupené z likvidovaných vojenských zásob. Ale kámen úrazu. Když jsme do tohoto kotlíku roztloukli na kousek omastku vejce,
+začal po stěnách ešusu stékal cín přímo do škvařících vajec, a bylo po jídle. V putování jsme pokračovali využívající vojenské speciály a vandrovali ke zřícenině hradu
+Zvířetice a pak dál proti proudu řeky a po polních cestách až jsme se dostali pod klášter ve vesnici u Mnichova Hradiště. v jehož pivovaře se vařilo znamenité černé pivo
+s nasládlou příchutí. Už si nejsem jist, zda jsme ho tehdy vysušeni letní žízní ochutnali nebo dali přednost osvěžujícímu proudu chladné vody z místních studní. Na
+rozcestí po krátkém uvažování, zda se dát po prudce stou- pající okresce směrem k Jivině a přespat u prarodičů nebe zůstat nadále trampy a pokračovat údolím romantického
+potoka Zábrdky k Bukovině, Borovicím a pak vzhůru k podvicmanovskému mlýnu. Zvítězila druhá alternativa. Když se šeřilo, zaťukali jsme ne. dveře mlýnského stavení a vešli
+do velké světnice, kde se rodina s čeledí připravovala k večeři. Uprostřed podlouhlého stolu v místnosti s dřevěnými trámy seděl starší mlýnář, mohutný postavou, a
+nedůvěřivě zkoumal naší žádost, zda bychom někde v mlýně mohli přenocovat. Pak vstal a požádal nás, abychom vyhrnuli kapsy, v nichž zjišťoval, nemáme-li zápalky. Naštěstí
+krabičku jsme měli zabalenou v baťohu. Prohlídka ho uspokojila. Odsouhlasili naší další žádost a děvečka mohla i ohřát na kamnech zakoupené mléko, naší večeři. Během
+večera, kdy jsme se vposlouchávali do rytmických zvuků mlýnského kola a šumění vodního náhonu, vyšla z dveří opět ona děvečka a zůstala na zápraží stát. Zvědavě jsme si
+ji oba prohlíželi. Nepřehledli jsme, že se mezitím upravila a že se z ní stalo pohledné děvče. Poté nás vyzvala, abychom za ní vylezli do stodoly a pomohli jí shodit pár
+snopů vymlácené slámy. Tu jsme pak rozprostřeli do korby mlynářského povozu, pod jehož plachtou vznikla ložnice pro nás. Děvčeti bylo znát na očích, že by ráda s námi
+strávila zbývající část večera a poslouchala naše vyprávění o putování z Prahy až sem ke mlýnu.Byli jsme z toho celí zaražení. Nezvyklost přítomnosti stále milejší
+dívčiny mátla naše smysly. Zůstali jsme věrni mládenectví a rozhovor posléze zanikl v popřání dobré noci. Zamuchlali jsme se do dek a usnuli. Ne však nadlouho. Hvězdy
+ještě svítily a po rozbřesku ani potuchy a my se vzbudili. Nebylo to jen šumění potoka a tajemné zvuky blízkého lesa, ale především stoupající chlad z náhonu, na jehož
+kamenitém můstku stála naše ložnice. Vyskočili jsme z vozu, poskakovali a vzájemně se třeli. Do rána jsme už oči nezavřeli a když se mlýn probouzel, vyšli jsme bez
+rozloučení na další cestu. Na pořadu dne byla návštěva hradu Fryštejna a vyhlídky Na Kopanicích. Odtamtud jsme se po zalesněném pahorku pustili směrem k Malé Skále,
+našemu důležitému mezicíli. Dorazili jsme krátce po polední a hned jsme se pustili do vyptávání a hledání hotýlku, kde trávil své prázdniny náš idol, Včera jsem marně
+probíral výroční ročenku obchodní akademie, kde se zveřejňoval seznam žáků a žákyň podle jednotlivých tříd a nahlas si předčítal jednotlivá dívčí jména. Několikrát po
+sobě. Příslušný mozkový čip nezabral. Asi se na jeho opotřebení už podepsal čas. Nicméně tehdy jsme idol našli. Končila právě společný rodinný oběd a byla z naší
+přítomnosti mírně řečeno vykulena. Rodiče nás však celkem vzali s pochopením na vědomí a dívka nám posléze s hlubokým vydechnutím oznamovala, že právě dostala od rodičů
+pokyn, aby nás provedla po městečku, ukázala přírodní scenérii, kterou představovalo zužující hrdlo skal, z něhož Jizera rychlým tokem vyvalovala své vody. Posléze nás
+zavedla na prkna místní provárny a pomohla přesvědčit plavčíka, aby nás nechal přenocovat ve společné převlékárně. Když jsme si dávali dobrou noc, dodala, že příští den
+pojedeme s ní vlakem až na samé hranice protektorátu a Třetí říše. Že se také postará o jídlo. Musím také povědět, jaká byla naše třetí noc. Znovu se chvěním celého těla
+i duše jí prožívám. Dřevěná převlékárna byla postavena na prámu, z něhou se plavci spouštěli rovnou do hlubšího koryta rychlé vody. Na prknech, která k sobě
+nepřiléhala, byly naskládány slamníky a každý z nás dostal k tomu dvě deky a slaměný podhlavník. Když jsme se jakž takž uvelebili, přišel do matně osvětlené místnost,
+světlo vrhala z venku lucerna, mladý pár, rovněž turisté. Navázali s námi kontakt a brzy se rovněž uvelebili. Pak ale na nás vznesli pár seznamovacích dotazů a začal
+podivný noční rozhovor. Hlavním mluvčím byl cizí muž. O čem vyprávěl. Se ženou patřili k podkrkonošským duchařům. Vliv duchařů prý sahal i do oblasti severně od Malá
+Skály. Jmenoval jednotlivá místa, kde se konaly jejich seance. Často to bylo i tam, kde se kdysi potajmu scházívali vyznavači učení Jednoty bratrské. Postupně ač jsme
+všichni poleháváli na tvrdých slamnících, vyvolával rozhovor sugestivně v nás, chci říci také ve mně, zvláštní napětí s mrazením v zádech i v duši. Atmosféra jakoby
+houstla. Řeka, která pod námi proudila, narážela na kameny, které strhávala a odnášela proudem. V převlékárně se vše ztrácelo a zůstával jen hlas vyprávěče. Napínal jsem
+zrak a nastavoval uši, z které strany se co šustne. Pak se jeho hlas se začal pozvolna ztrácet...Kouzlo začalo pomíjet. Dlouho jsem otřesen nemohl usnout. To bylo první a
+také poslední moje setkání s duchaři. Když jsme se vzbudili, ležely blízko nás jen dva prázdné slamníky. Pak nastal slunečný den. Nasnídali jsme se a hajdy na železniční
+zastávku, kde jsme měli schůzku s Idolem. Vlakem jsme dojeli do pohraniční stanice, vystoupili a navštívili nějaký hrad. Pak jsme jí doprovodili, ona se vracela nazpět a
+my pokračovali směrem na Sedmihorky, Jičín, Lomnici nad Popelkou..
+
+Matně si vzpomínám, že jsme také procházeli Prachovskými skalami a obdivovali jedinečné pískovcové výtvory přírody. Svojí krásou a architektonickými skvosty i pozicí
+náměstí nás nadchl Jičín. Neopomenuli jsme táhlý, majestátný hřeben Kozákova, Trosky,hrad Pecku. Spali jsme v několika školách. Pochutnávali si v Lomnici. nad Popelkou na
+místní specialitě na proslulých suchárcích. Připomínám si stařenku, která seděla la laviče před chaloupkou v nějaké více směrem na Sobotku. Když jsme jí sborově
+pozdravili, a zdravili jsme během putování často vesničany, žence na polích, pocestné, prostě kdekoho, kdo nám představoval život bohulibého kraje. Ta babička nás pozvala
+do své chaloupky, uvařila z melty kávu a k ní někde vystrahala buchty a se zájmem se nás vyptávala na naše putování, na to, co je zajímavého ve světě. A když poznala, co
+jsme zač, darovala nám při rozloučení výslužku a nějaký peníz, abychom prý nehladověli. V ní jsem dlouho spatřoval tu milou tvář tehdejších vesnických lidí a
+výměnkářů. Po tomto putování plni dojmů a zážitků jsme v Dolním Bousově nastoupili na malém nádražíčku zpáteční cestu domů.
+
+## U Jiráků
+
+Prázdniny v době studií na obchodní akademii jsem už netrávil jen v Jivině. Nevlastní matčini bratři starší Frantík a mladší Jarda mne často se svými
+manželkami zvali na návštěvy. Oba byli povahovými vlastnostmi a snad i pojetím života opaky matky. Jarda vlastnil rodinný domek v Čakovicích, pracoval v místní letecké
+továrně Avia jako mechanik a navíc po nedělích občas držel stráž jako člen hasičského družstva. S manželkou a dcerou Jaruškou tvořili slatké usměvavou a veselou
+rodinu. Rád jsem k nim jezdíval na víkend . Od nádraží to k nim nebylo daleko. Teta za války zemřela na onemocnění míchy a strýc si neužil důchodu. Jako silného kuráka ho
+sklátila zákeřná nádorová nemoc. Z jeho odchodu jsem byl velmi smutný. Mnohem hlouběji jsem se však sblížil s rodinou Frantíka. Ten pracoval na státních statcích jako
+šafář. Už tenkrát nosili zaměstnanci i uniformy a měli hodnotní označení, malé nebo větší hvězdičky, stříbrné nebo i zlaté s prýmkem Nebo bez něho. Strýc patřil k nižší
+kategorii a snad po celou dobu měl na starosti mléčné hospodářství neboli kravíny, výrobu mléka, chov telat a vše další, co s jeho funkcí souviselo. Dnes se jí říká
+zootechnik. Plat měl nízký, k němu patřil deputát. Předpisy dovolovaly, aby si za rok vykrmil jedno prase, směl si bez omezení pěstovat slepice a kachny. Chov hus byl
+však zaměstnancům zakázán, prý aby
+nechodily do panského na klasy. Strýc byl velmi srdečný, vždy dobře naladěný. Jeho smích se nejednou měnil v řehot. Moc hezký vztah ke mně měla teta Hedvika.
+
+Poprvé jsem k strýci zajel o prázdninách v sedmiatřicátém roce. Jeho pracovištěm byl státní statek v Cerekvici u Hořic ve východních Čechách . Vlakem do Hradce Králové a
+pak jičínskou lokálkou do zastávky Sadská. Sadská se zapala do rakousko-pruských válek. U nedalekého Chlumu došlo k tragické porážce a rozprášení rakouské armády v roce
+1866. Náhrobky pobitých rakouských vojáků podávaly i zde, obdobně jako podél silnice do Jiviny, o tom výmluvné svědectví. A právě u tohoto Chlumu byl počátek jejich
+tragické záhuby. Ze zastávky jsem do Cerekvice musel už šlapat pěšky. Ve středu vesnice byl pěkný udržovaný zámek upravený po první světové válce na školu. Kolem zámku
+byly rozloženy přízemní hospodářské budovy, z nichž některé sloužily jako byty zaměstnanců. Veškeré budovy byly postaveny z pískovce těženého v blízkých hořických
+lomech. Tento stavební materiál byl hojně používán i ve výtvarném umění, v sochařství, a z něho jsou i vytesány sochařské skvosty na kukském zámku. V Hořících byla a snad
+dosud přetrvává i sochařská škola. Tento znamenitý pískovec má ovšem i jeden nedostatek, který se zejména projevuje při jeho použití ke stavbám. Je totiž značně porézní a
+nejsou-li - a to dříve nebyly - základy staveb dostatečně izolovány, přijímá snadno vlhkost. V mrazivých zimách narůstají na vnitřních stěnách místností i
+několikacentimetrové vrstvy ledu. A ty nezdolá ani vytápění. Ale k tomu se ještě dostanu. Cerekvice na mne působila dojmem poklidné vesnice a u strýce se mi dostalo
+milého přivítání. Brzy jsem se do jeho rodinného i pracovního prostředí vžil a cítil jsem se v něm šťastný. Jak jsem jih uvedl, strýc měl na starosti chlévy a mléčné
+hospodářství. Vstával časně ráno, aby stihl první dojení, při které dohlížel na práci dojiček, poměřoval produkci mléka, zjišťoval obsah tuku, staral se o řádné ošetření
+mléka, o chlazení a odvoz do mlékárny. Většinu dojnic dobře znal a mně se zdálo, že si s nimi rozumí. Věnoval se telátkům, kterým nejednou i v nočních hodinách pomáhal
+při těžších případech na svět. Nejednou totiž noční hlídač vyhlašoval něco jako poplach. Líbilo se mi na strýci, snad mne to i dojímalo, jak laskavě pomáhá rodičkám
+překonávat těžkou hodinku, jak s nimi hovoří a povzbuzuje.
+
+Později to už bylo po válce se stal strýc významným popularizátorem tzv. studeného odchovu telat. V učebnici používané na středních zemědělských školách byla jeho
+fotografie u jednoho z malých domečků, kam byla telata zaváděná v jejich ranném věku a uměle odkojována. Vzor pro tuto metodu měl v sovětské pokrokové živočišné produkci.
+
+Jeho manželka, teta Hedvika, milá, růžolící se zarosenou pletí pod jemným nosíkem, byla mou starostlivou tetou. Měli tři děti. Nejstarší Zdeněk viděl v tetině péči o mne
+jakého si soupeře a dával mi svůj vztah ke mně nejednou ve vzájemných disputacích najevo. Od mládí byl postižen astmatickými potížemi, které snad byly důsledkem
+nedoléčené spály zhoršované bydlením v zavlhlých místnostech deputátního bytu. Po válce vystudoval vysokou lesnickou školu. Zemřel v nedokončených padesátých letech
+života jako lesní inženýr. Pracoval na ministerstvu lesnictví. Byl jsem na jeho pohřbu v motolském krematoriu. Není běžné hovořit o pohřbu jako o velebném rozloučení. Ale
+takový byl jeho pohřeb. Stál jsem ve smuteční síni opodál katafalku. Postupně přicházeli lesníci v uniformách., tu stříbra ale zlato převažovalo, a kolem vyvýšeného místa
+kladli větvičky smrkoví. Brzy rakev tonula z zeleni. Podél katafalku stáli na každé straně po třech jeho spolupracovníci. Když vyšla z vedlejší místnosti tetička a obě
+děti se svými rodinami a další příbuzní, zazněla smuteční hudba. Po ní se ujal slova představitel ministerstva. Hovořil o tom, jak v pátek minulý týden se Zdeněk loučil
+se svými spolupracovníky a spěchal na pravidelné týdenní setkání se svou maminkou a s rodinou své sestry, které bydlely v rodinném domku v Hostivicích. Pln radosti že
+opět s. nimi stráví šťastný víkend. A tam ho stihl náhlý záchvat a smrt. Představený hovořil o jeho záslužné novátorské práci v zalesňovacích metodách, o moderním
+způsobu, jenž nese jeho jméno. Prožíval jsem v hlubokém zadumání mnohé společné zážitky a vnímal ho i ze stránky, která byla dosud pro mne zahalena. Pak mne vyrušily
+hluboká smuteční tony lesních rohů, jimiž mu čestná stráž vzdávala poslední sbohem. Když jsem přistupoval k tetičke a dalším členům rodiny, ozval se z povzdálí naříkavý
+hlásek asi osmiletého chlapečka, který naplnil celou síň.
+
+Upřímně se přiznávám, ze při kondolenci a stisku ruky se i mně koulely slané slzy po tváří. Po mnoha létech jsem políbil stále růžolící tetičku. Ale nechci na vás, milí,
+přenášet zvláštní pocit pomíšivosti, spíše krásný pocit., který, vyvolává uznání a vděk zesnulému za jeho celoživotní práci. Druhým dítětem Jirákových byla Bohunka,
+hebkostí tváře i sklonem k baculatosti po mamince a hrdopyška, nevím po kom.
+
+Třetím děckem, tedy bratrancem byl Miloš. Byl asi o šest sedm let mladší než já a měli jsme se nejraději, rozuměli jsme si. Byl po tátovi smíšek a vyhledával mé
+přátelství. Později pracoval jako řidič autobusu, statný po tátovi a milý po tetě. Teď asi užívá důchodu. Tetička mne rozmazlovala. Po prvním dojení, když strýc přinesl
+deputátní čerstvě nadojené mléko vlastně sladkou smetanu, teta nás mládež, ponořenou do spánku jemně vzbudila a aniž pronesla jediné slovo. O nějakou hodinku později, to
+často už pohlazeni svitem ranního sluníčka, jsme se u podlouhlého stolu ládovali ještě teplými rohlíky plněnými marmeládou, právě tetou přinesené od pekaře, jehož pekárna
+byla jen kousek přes silnici a v pravidelných intervalech vydávala bohulibé vůně poctivého chleba a pečiva. K tomu jsme zapíjeli rovněž vonící meltu s nefalšovaným
+mlékem. Kde jsou ty téměř každodenní prázdninové hody, kdy se nejednou v týdnu objevoval na oběd čerstvě poražený a dozatlova upečený mladý kohoutek, jeden nebo dva,
+obměňovaný křehkou pšeničným zrnem vykrmenou kachnou, která ještě v ranních hodinách kvákala na protilehlém dvorku. A takhle dobře se u Frantíka jedlo i v dobách okupace,
+zatím co příděly ve městech se stále tenčily a kdy i odstředěné mléko bylo přepychem. Z doby mých prázdnin prožitých ve východočeské vesnici mám řadu dalších zážitků.
+
+O některých vám povím. Sousedem strýce a řekl bych jeho kamarádem, byl fořt. Poznal jsem ho jako dobromyslného Němce mluvícího českou němčinou, která nejednou vyvolávala
+na našich tvářích úsměv a pro níž si ho občas strýc dobíral. Nikdy však ve zlém, a fořt to bral spíše jako přátelské gesto a projev kamarádské upřímnosti a popud k
+úsměvné veselosti, která v rodině Jirákových nikdy nechyběla. Manželka fořta byla Češka a německy nehovorila. Velmi často přišel tento bezdětný pár provoněný lesní vůní -
+vždyť bydleli ve fořtovně či hájovně na okraji kdysi zámeckého lesa, který i nadále byl udržován ve velmi dobrém stavu, na večerní partičku mariáše. Apropos, les od
+hájovny stoupal do vršku a na něm uprostřed travnaté cesty stála kaplička, místo, kam jsem se nejednou ubíral s knížkou pod paží, abych leže na hebké zeleni četl anebo se
+díval Pánubohu do oken. Občas se u mne zastavila lasička, s jednou nožkou ladně pokrčenou, celá ztrnulá a svítícími perličkami svých očí se ptala, co jsem zač. Já jsem
+také strnul, což jí přestalo posléze bavit a spokojeně odhopkovala. Jednou mne fořt pozval k sobě do hájovny a po svačině mne nabídl, abych si s ním šel zastřílet. Půjčil
+mi jednu ze svých pušek, byla jednohlavňová. Procházeli jsme blízké okolí. Náhle mne upozornil, že po větvích okolních stromů poskakuje hnědá veverka a pokynem vyzval,
+abych zalíl a střelil. S loveckým zaujetím jsem vystřelil a ze stromu bezhlesně spadla veverka.
+
+Sklonil jsem se k ní. Ležela, nedýchala a lesk jejich oček pohasínal. Mé lovecké uspokojeni se záhy změnilo ve smutek nad zbytečně utraceným,životem maličkého
+tvorečka. Od té doby jsem nevzal loveckou pušku do svých rukou. Po Mnichově připadly blízké lesy, které dosud patřily k cerekvickému revíru, do zabraného území, do Třetí
+říše. Fořt přesídlil do německé vesnice a hájovny. Po válce jsem slyšel, že svůj dřívější, jak to jen nazvat, snad bodrý vztah k Čechům, natolik změnil a zapojil se
+sudetoněmeckého šovinismu, že musel po válce následovat osud přesídlců. Teta Hedvika měla pochopení pro mojí touhu poznat blíže přírodní a historická kouzla
+východočeského kraje. Ochotně mě půjčovala své zánovní dámské kolo a já navíc vybaven štědrými zásobami proviantu jsem postupně projížděl a
+poznával dosud neznámé kouty kraje až k samým hranicím. Rád si vzpomínám na krajinu směrem k Týništi s kopcem Orebem, na toulky podél obou Orlic, na prohlídky hradů a
+místních muzeí. Velký zájem vyvolal památník Na Chlumu, kde jsou soustředěny relikvie z války z roku 1866 zbrané, uniformy znepřátelených vojsk, prapory a mnoho dalších
+památek, které vytvářejí kolorit té doby. Na jedné z těchto cest při stiždění prudce klesající silnice jsem se v zatáčce pěně vymázl. Pocit bezmocnosti, kdy se kolo řítí
+po krajnici silnice a já cítím, že klouže a brdy jsou proti tomu neúčinné a nedaleko zeje skalnatá roklina, zůstává doposud někde v žádní části mé hlavy. Návštěvou
+Hronova a zejména projížd’kou Babiččiným údolím jsem byl nadšen. Srovnával jsem její půvab, šumění starých stromů i zpěv splavu nedaleko Starého bělidla se svými
+představami, které jsem si o zašlé době vytvořil při četbě Babičky Boženy Němcové doprovázené ilustracemi znamenitého Adolfa Kašpara. Když jsem tehdy pokračoval v pozdním
+odpoledni jižním směrem k České Skalici, nedržel jsem se okresní silnice a podle vojenské mapy jsem jel polní cestou, která končila na nějakém poloostrově, na výběžku
+obtáčeném vodami Úpice. To už se příšeří začalo měnit ve tmu a v dáli se a rozsvěcovala světla, která jsem považoval za domky ve Skalici. Slezl jsem s kola. Ve mně
+vzrůstal zmatek a obava, kde vlastně jsem. To trvalo delší dobu, nešel jsem už ani po cestě ale klopýtal po hrbolatém poli. V dáli se ozývaly hlasy, jež postupně sílily
+až se změnily ve veselý ženský rozhovor. Shůry pole jsem volal, hlasy umlkly a pak začaly odpovídat a já slézal v ruce drže kolo na silnici, kde staly dvě dívčí
+postavy. Jejich tváře jsem však nerozeznával, jen hlas prozrazoval, že jde o mladé osoby. Ujaly se mne a doprovodily až k hospodě na pokraji města. Ve světle lampy jsem
+spařil obě tváře. Ta té dívky, co byla ke mně nejřečnější a v ukazování cesty nejvstřícnější, odpovídala i melodičnosti jejího hlasu. Doprovodila mne do výčepu místní
+hospody a u hostinské se přimluvila, aby mi poskytla nocleh. Přes počáteční vyhýbavou odpověď a podezíravé pohledy se nade mnou smilovala a tu noc jsem spal v komůrce,
+která sloužila zřejmě pro jiné účely. Pak se obě dívky se mnou rozloučily a já litoval, že toto zvláštní setkání skončilo.
+
+Ze svých výletů a bylo jich za ta léta pěkná řádka, si vybírám ještě jeden. Ten byl několikadenní. Jezdil jsem po lázeňských místech jako Běloves a Velichovky, od jihu k
+severu a pak jsem odbočil prudce na východ k Náchodu. To se psal rok 1939. Můj zájem se soustředil na opuštěné pohraniční opěvnění. To se stalo tehdy doslova poutním
+místem. Němečtí okupanti co mohli, to odvezli. Místy trčely rozmetané trosky po pancéřových kopulích, z nichž jednu či dvě dosud nemohli pro terénní překážky
+odvést. Dostal jsem se s druhými zvědavci do nitra hlavního opevnění v hoře Dobrošov, jenž se tyčí nad městem. Užasl jsem nad jeho rozlohou, důkladností a
+vybaveností. Prolezl jsem mohutné dělostřelecké věže, které měly být vyzbrojeny novými účinnými děly, bunkry pro nové moderní kulomety, jež tolik vzbudili zájem německých
+zbrojířů, že jimi později vyzbrojovali tanky.
+
+V podzemí bylo vybudováno celé město, jehož jednotlivé sekce byly pospojovány úzkokolejnou drahou: nemocnice, velitelské stanoviště, sklady, elektrárna, vodárna apod. Po
+této prohlídce, která trvala celý den, jsem lépe pochopil, že odhodlání naší armády bránit se před německými útočníky mělo jak základ v čistém vlastenectví a hrdosti tak
+v důvěře v naše zbraně.
+
+Během prázdninových pobytů v Cerekvici jsem přišel do styku s poměry, které tehdy panovaly na státních statcích. Zatím co vyšší úředníci bezostyšně kradli a vrchní
+správce ze Smiřic si pro sebe dával přivážet zrní a jiné produkty na valnících, statkovi zřízenci a podruhové sbírali občasné drobky z panského stolu. Tu a tam zametli
+nějaké kilo zrní na sýpkách nebo jak jsem se již zmínil, využívali možnosti chovat drobné hospodářské zvířectvo s výjimkou hus. Trávu pro králíky nebo vydrolené zrní si
+vždycky našli. Občas na toulkách po polních cestách jsem se setkával se skupinami slovenských žen, které pod vedením bači si statky najímaly na sezónní práce. Většinou to
+byla mladá děvčata a od jejich pracovní
+skupinky se často ozývaly melodické zpěvy plné veselí ale i tklivé nostalgie. Neminul jsem je, aniž na mne pokřikovaly, smích na rtech, a já jim cudně odpovídal s
+rumělkou na tvářích. Ze zvědavosti jsem jednou "zabloudil" ke stavení, kde přespávaly a kde jedly. Když mne bača znaje již mou osobu z toulek pozval dovnitř, se zájmem
+jsem přiřížel, co z kameninových misek pojídají. Byla to jídla z fazolí a k nim zelené papriky, prostě strava slovenského venkova, tehdy velmi bědného. V pozadí za
+dlouhým stolem a dřevěnými lavicemi byly podlouhlé dvoupatrové palandy, nikoliv nepodobné těm, které jsem poznal za pár let v terezínské pevnosti. Když jsem se poté
+vypýstával strýce na tyto sezónní dělnice, vyprávěl, že jsou z hornatějších oblastí středního Slovenska a že státní statky uzavírají s bačou kontrakt na rok. Dostávají
+stravu a denní odměnu 1 nebo 2 Kč podle druhu práce. A při skončení sezonního pobytu určitý doplatek. Nevěděl, zda z výdělku si musí platit dopravu. Ano tak vypadal
+venkov v předválečných letech. Jivinská teta Kuntošova rovněž zaměstnávala na léto a podzim Slovenku. Její jméno jsem zapomněl. Byla v její rodině velmi oblíbena a kdyby
+to tehdejší společenské poměry a "mravy" dovolovaly, myslím, že by jí ráda uvítala jako svojí snachu. Teta i ve svém požehnaném stáří - zemřela v nedožitých 90 letech -
+na ní často vzpomínala. I při vší tehdejší šetrnosti přecházející nejednou ve skrblictví asi někdy pro toto děvče sáhla hlouběji do kapsáře. Snad bych měl dodat, že tehdy
+jsem ještě neměl smysl pro dívčí tělesné půvaby příliš vyvinutý, přesto si pamatuji, že tyto dívky ze Slovenska se postavou a tělesnou konstitucí lišily od našich. Byly
+štíhlejší a šlachovité, často s krásně upravenými tmavými vlasy, nosily jednoduchý kroj tmavších barev a měly krásná jakoby sportovní lýtka a ještě krásnější oči, tmavé a
+bystré.
+
+Teta Hedvika měla bratra, jmenoval se Karel. Když absolvoval jednoletou lesnickou školu pro hajné v Jemnici, přijel k sestře na návštěvu. Záhy jsme se
+skamarádili. Chodili jsme spolu na místní koupaliště a hlavně na delší procházky po okolních lesích. Rád jsem ho doprovázel, měl mnoho zajímavých poznatků, které získal v
+přípravě na budoucí povolání. Často jsme se zastavovali u lesních stromů, tu utrhl větvičku, onde opatrně položil na dlaň broučka, a začal hovořit, k jakému druhu patří a
+jaký význam má v přírodě a v lese, čím je užitečný nebo škodlivý. A tak se procházky stávaly naučnými stezkami a příroda mi v Karlově vyprávění ukazovala dosud málo známo
+utvář. Karel také uměl připravovat báječný nakládaný zelný salát, prokládaný cibulí, kmínem a hořčičnými semínky, zalitý sladkokyselým nálevem. Když za pár dní dozrál,
+byl znamenitou pochoutkou. Brzy si vytvořil malou partu, k ním patřila dcera správcové statkového špejcharu a mladý místní pár, mohutný technik Jarda pracující v
+hradeckých strojírnách a jeho plnoštíhlé děvče, zaměstnané v hradeckém obchodním domě. Tento pár se často škádlil, a hněval a opět usmiřoval. O Jardovi se říkalo, že pro
+své zamilované oči nevidí, že děvče má kromě něho ještě v Hradci jednoho postaršího ale zámožného amanta. Její otec vlastnil v jedné z úzkých cerekvických uliček
+holičství a navíc jeho druhá dcerka Jarča, o něco mladší než já, postupně vzbuzovala můj zájem. Vlastně ten zájem o ní vznikl z vyprávění Věřina, když jednou v podvěče
+všech pět nás leželo na stráni pod ovocnými stromy a vedly se rozprávky o životě, při tom, jak jsem si povšiml se oba páry k sobě tiskly. V takovéto atmosféře se nelze
+divit, že zmínka o mladší sestře mne zaujala. Ta v té době ale ležela v hořické nemocnici s nějakou nemocí. Jak jsem se již zmínil, využíval jsem o prázdninách každé
+možnosti, abych se toulal po blízkém i vzdálenějším okolí. Touha dívat se a pronikat do světa mne od mládí doprovází po celý život. A tak za několik dní, když jsem se
+loudal teplým dopolednem po polní cestě a dýchal vůni modravých chrp, červených polních máků i heřmánkových kvítků, vynořovala se na cestě z protilehlé strany postupně
+rostoucí postava. Čím byla blíže, tím se její obrysy zviditelňovaly a posléze nabyly podoby mladé sličné dívky. Naše protichůdná chůze se jakoby zpomalovala. Zatím co já
+jsem usilovně přemýšlel, koho mi děvče připomíná, líce dívčiny různověly a nachová barva se rozlévala po celých tvářích. Mne ale v těch chvílích vůbec nic nenapadlo, ani
+jsem se nezastavil ani nepronesl pozdrav či jiné oslovení. A byli jsme tak sami. Nicméně v mé duši se v dalších dnech odehrávaly podivné postupy. Začal jsem vyhledávat
+příležitost, abych děvče častěji mohl spatřit nebo alespoň o ní získat podrobnější informace. Byla to mladší setra Věřina. Když byla v Cerekvici pouť, chtěl jsem ji
+darovat perníkové srdce, ale ani k tomu jsem se nedostal. Nevím, zda-li to byl nedostatek odvahy nebo vhodné příležitosti. Pak jsem odejel.
+
+V mé mysli se však usídlila na delší čás a byla prvním a posledním mým inspiračním zdrojem ke skládání sonetů a balad. Celou sbírku jsem jí poslal někdy kolem vánoč. Vše
+jsem přepsal krasopisným písmem. Obálka byla dosti tlustá. Nikdy jsem nedostal odpověď.
+
+Byla to moje poslední cesta do Cerekvice. Původní text sbírky básní jsem zničil po návratu z koncentráku v roce 1945. Chci se ještě krátce vrátit k rodině strýce
+Jiráka. V následujících letech se přestěhovali do okolí Prahy. Strýc byl přidělen do malého státního statku v Hrádku u Jenče. Hospodářské i obytné stavení zaměstnanců
+dříve patřilo nějakému řádu. Mniši, se kterými jsem při občasných návštěvách přicházel do styku, měli vyhrazenu část komplexu, pracovali na malé zelinářské zahradě. O
+jejich dalších činnostech jsem nic neslyšel. Po krátkém pobytu v Hrádku, se rodina přestěhovala do statku v Litovicích u Hostivic. Po válce jsem je jednou dvakrát
+navštívil, byli na mne vždy hodní, ale pak proudy a víry života mne uchvátily natolik, že naše vztahy se přeměnily už jen ve vzpomínky, byť z mé strany v ty velmi krásné.
+
+## Kultura a studentská léta
+
+Blížím se ke konci vzpomínek z dětství a školních lét. Už jsem se zmínil o naší skupině studentů, kterou spojoval zájem o kulturu, v další kapitole budu vyprávět
+podrobněji o další stránce mladých let. Ale teď ještě několik slov k mému zájmu o kulturu v době studie na karlínské obchodní akademii. Žil jsem velmi intenzivně. Z mých
+zálib patřila velká pozornost divadelnímu dění. Oslňovala mne ze jména tvůrčí novátorská činnost E.F. Buriana. Navštěvoval jsem mnoho představení jeho souboru v Mozarteu
+a posléze v novém moderním divadle Na Poříčí. Divadlo mělo jméno D a přidával se k němu vždy běžný rok. Myslím, že tam začali hrát pod názvem D40. Každé představení bylo
+u Buriana událostí, opravdovým a hlubokým zážitkem. Herecká profesionalita umocněná režijním uměním a novátorskou výpravou. Stal jsem se členem klubu přátel
+Děčka. Zúčastnil jsem se i několika besed, na nichž vystupoval E.F.Burian, architekt Kouřil, přední herci, primabalerína a choreografka Nina Jirsíková. Hltal jsem
+vyslovené názory o režijní a herecké práci, o novém pojetí divadla jako umění pro lid. Zvláště mne upoutaly přednášky Buriana o herci, který v jeho pojetí musel především
+ovládat náš jazyk, mít smysl pro jeho krásu a umět ho ve své mluvě umocnit na prožitek, herec měl být zároveň tanečníkem, stepařem i trochu akrobatem., dokonale ovládat
+mimiku. Klad důraz na zvládnutí slova, na zvučnost a barvitost hlasu, na výslovnost. Vždyť také byl tvůrcem vynikajícího voice-bandu. Jeho nastudování Máchova Máje a
+poválečné Hrubíny Jobovy noci, jsou nezapomenutelným zážitkem pro toho, kdo je shlédl a jim naslouchal.Byla to oslava rodné země i pocta vzdaná umění obou básníků. Povím
+vám, jak názorně nám přiblížil Burian svou představu o úloze hercova hlasu na jednom příkladu: "Někde v Pyrenejích, poblíž rozeklaných skal stojí horský příbytek a v něm
+žije starý otec s mladou dcerou. Je noc a nad chatou zuří v plné sile hrozná bouře. Blesky osvětlují v nepravidelných intervalech chudobnou sednici. Silou hromu se vše
+otřásá. Otec a dcera, oba plní obav a strachu se modlí. A tu náhle se ozve bušení na dveře. Je doprovázeno naléhavou prosbou o poskytnutí přístřeší. Hlas prosby zprvu
+vzdálený zesiluje a je stále naléhavější. Je to krásný hlas, prosebný a něžný zároveň. Dívka pozvolna podléhá jeho kouzlu, vstává, otec ji však varuje. Její touha
+vzrůstá, hlas jí vábí a ona jemu podléhá. Přiskočí ke dveřím, odstraní závoru a - uskočí. Do dveří vstoupí zahalená postava a vyslovuje díky za pomoc. Jeho hlas dále
+působí, dívka je okouzlena. Postava odhodí plášť a záblesk blesku ji ozáří. Poutníkem je bědný, ubohý hrbáč." Vyprávění ustalo a v sále hrobové ticho, z něhož se jen
+pozvolna probouzíme . Slovo, hlas zvítězil.
+
+Burian měl vlastní divadelní školu a z ní vyšel nejeden z uznávaných našich herců, zasloužilých a národních umělců, mistrů divadelních a později i filmových a televizních
+scén, prken, které znamenají svět. Jeden za všechny Rudolf Hrušínský. Z Buriánovy „dílny“ jeho školy mladých adeptů divadelního umění vyšel i modernistický režisér Otomar
+Krejča Divadlo D a lidé okolo měli tehdy pro českou kulturu velký význam, který přesahoval vlastní rámec jeho scény. V předsálí a na schodišti se pořádaly výstavy
+současných malířů a fotografů. Tak jsem se jejich prostřednictvím seznamoval s mistry výtvarného umění a s jejich tvorbou, kterou jsem zde spatřil v dobře uspořádaném
+výběru. Zážitkem byl i tištěný program každého představení vložený do měsíčníků, který obsahoval řadu literárních dílek, fotografií a zejména se věnoval projektům
+"divadla pro lid". Jedna z představ skupiny sdružené kolem Buriana rozpracovávala návrh vytvořit na Slovanském ostrově jakýsi protipól Národnímu divadlu, které se tehdy
+repertoárově specializovalo na světové a české klasiky, zatím co nové divadlo mělo programově dávat přednost současným tvůrcům a zároveň usilovat o moderní jevištní
+řešení. Rád bych toto vzpomínání rozšířil o řadu dalších podrobností, které jsou dosud v mé paměti živé, například o publikace Buriana a jeho herce Vaňátka, které
+podávají široký pohled na tento směr v našem divadlnictví třicátých a začátku čtyřicátých let. Závěrem k Déčku chci ještě dodat, co mne na jeho scéně nejvíce
+vzrušovalo. Především to bylo představení Nezvalovy Manon Lescaut. Dodnes pociťuji vliv, který toto představení mělo a stále má na mé vnímání umění. Dramatikovvy verše
+považuji za jeden z vrcholů poetizmu, básnické krasomluvy, jedinečného zvládnutí různých útvarů poezie zejména pak balad. Nejednou a náhle ozývají se v mé hlavě živě
+verše plné lásky i milostného vtipu i dramatické vášně. Výkony tři protagonistů Vladimíra Šmerala v roli rytíře Des Grieux, Marie Burešové v titulní roli a Václava
+Vaňátko jako Tiberge patří k těm nejlepším, jaké jsem na české scéně viděl. Není divu, že představení jsem shlédl několikrát po sobě. Vedle divadelních představení jsem
+věnoval pozornost již zmíněným výstavám výtvarného umění. Jen málokterou jsem v těch letech propásl. Je pochopitelné, že nejhlubším dojmem na mne tehdy působily expozice
+malířů vyjadřující obavy a vzrušení z tehdejší doby, ze zřudnosti nastupujícího fašizmu a přízraků války: Josef Čapek, Emil Filla, Vladimír Sychra a Cyprián Majerník.
+
+Tím také končím kapitolu mého mládí, kdy přes začínající tíži doby převládalo první mladistvé zanícení a kdy osudové rány, i když byly, neudávaly mému životu ten hlavní tón.
+
