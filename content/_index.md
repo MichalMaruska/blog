@@ -1,3 +1,11 @@
++++
+title = "List of blog posts"
+sort_by = "date"
+template = "blog.html"
+page_template = "blog-page.html"
++++
+
+
 renamed '2012-10-12-system-to-keep-hierarchy-of' -> '../content//system-to-keep-hierarchy-of'
 * 2012-10-12 [system-to-keep-hierarchy-of](system-to-keep-hierarchy-of/index.md)
 renamed '2012-11-22-building-emacs-from-git-with-some' -> '../content//building-emacs-from-git-with-some'
