@@ -31,7 +31,7 @@ Then I learned that with Zsh, I can programmatically use that feature which impl
 ZLE will  prefill the command line by popping the strings from the stack.  
   
 So I came up with this function:  
-  
+``` zsh
 zload-file () {  
         file=$1  
         setopt nomonitor  
@@ -43,7 +43,7 @@ zload-file () {
         wait  
         setopt monitor  
 }  
-
+```
 Sure, I have to put the lines in reverser order -- the last one to be pushed as first, so that it ends at the bottom.
 
 PS: After a while I learned/realized all the arguments of those commands, and made scripts (release & snapshot) which hide all the details, and expose different set of options-- those which I care about.
