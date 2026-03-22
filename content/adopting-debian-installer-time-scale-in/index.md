@@ -4,9 +4,7 @@ date: 2023-09-04
 draft: false
 ---
 
-# Story of abandoning own tool in favour of learning multiple projects and combining them
-
-# Adopting Debian Installer  (time scale)
+## Adopting Debian Installer  (time scale)
 
 In 2016 I started to formalize the way I want to replicate my debian installation on other PCs. I think I needed that once per year.
 
@@ -33,10 +31,6 @@ I could test the partitioning with encryption on a virtual disk (10GB).
 * Started to wonder about having "udeb" packages in my reprepro.
 * Not really sure what is inside "mini.iso", maybe all is inside the initrd?
 
-## 
-
-## 
-
 ### Setting up PXE
 
 I wanted to also avoid using flash drives/sd-cards  -- using PXE seems more elegant. Also using netboot rather than hd-media seems a nice simplification.
@@ -57,4 +51,4 @@ I included a custom udeb: I needed a modified "[choose-mirror](https://salsa.deb
 
 Partitioning seems intuitive (once you want to use the same key for both Swap & Root fs).
 
-Choose the minimal (ssh server, standard), and after the reboot  do still some manual copying, apt configuration, and finally install my  "[top](https://github.com/MichalMaruska-TomTom/maruska-top)" virtual packages.
+Choose the minimal (ssh server, standard), and after the reboot do still some manual copying, apt configuration, and finally install my "[top](https://github.com/MichalMaruska-TomTom/maruska-top)" virtual packages.
