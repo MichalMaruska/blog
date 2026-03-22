@@ -81,34 +81,34 @@ Nejednou jsem s manželkou meditoval o tom, jak respektive od čeho vzniklo naš
 si odnesl poznatek, že od 16. století se příjmení ustavovalo jako stálé označení celé rodiny a že za Josefa II. v
 roce 1780 byla ukončená jeho dědičnost. Ostatně dokladem toho jsou i výpisy z církevních matrik.. V dětství jsem se
 seznámil totiž v rodišti mé nevlastní matky v Boňkově na českomoravské vysočině se široce rozvětvenou rodinou
-Medových, z níž pocházela. Ve venici se však u jednotlivých rodin užívalo příjmení přízvisko podle původního
+Medových, z níž pocházela. Ve vesnici se však u jednotlivých rodin užívalo příjmení přízvisko podle původního
 povolání otců. Hovořilo se o Truhlářových a podobně. To mne přivedlo k hypotéze, že u našeho rodu usídleného v
 Jivině několik století , u pradědů s tradičním jménem František , se začalo přidávat rodové jméno po praprabábě
 Marušce. Nebyla asi mohovitá, ale asi pěkně urostlá, zdrobnělina snad vypovídá o její oblibě.
 
 Osobně jsem poznal, jako nejstaršího člena rodu, prababičku Kateřinu. Narodila se v čase robotných povinností,
-zažila ústupové boje a dobíjení prchajících vojáků rakouské armády za rakousko-pruské vojny v roce 1866, Ráda
-chodila jako mladá s procesími na poutní místa, jak o tom svědčila početná památečných hrníčků, vystavených v její
+zažila ústupové boje a dobíjení prchajících vojáků rakouské armády za Rakousko-pruské vojny v roce 1866, Ráda
+chodila jako mladá s procesími na poutní místa, jak o tom svědčila početná památečních hrníčků, vystavených v její
 jarmárce. Zemřela ve věku 95 let. Do poslední chvíle byla čiperná, vždy to u ní v sekniče vonělo kořením, z něhož
 si připravovala léčivé ranní nápoje. Měl jsem ji rád a každé prázdniny jsem ji zašel pozdravit. Měla tři syny a
 dceru. Karel, který byl nejstarší, sadařil a bydlel s družkou Barčou v jedné z komůrek pro čeleď na
-mnichovradišském zámku. Děda František byl druhý. Pak přišla dcera Anna, která se vyvdala za zemědělského
+mnichovohradišťském zámku. Děda František byl druhý. Pak přišla dcera Anna, která se vyvdala za zemědělského
 kravičkáře Zikmunda. K ní na zahradu jsem chodíval, někdy i tajně, trhat hrušky. Tam dozrávaly už na počátku
 prázdnin. A posledním byl Václav. Ten hospodařil na rodné chalupě, přivydělával si muzikantstvím a jeho kapela
 nechyběla na zábavách a ani při posledních rozloučeních.
 
 Jivinský děda a babička. Je to ve mně asi nostalgické oživování mého šťastného mládí a možná i trochu staromilství,
-že si na ně oba často vzpomínám, že v nich i spatuji kořeny mého já. Ostatně na rozdíl od smíchovských prarodičů ze
+že si na ně oba často vzpomínám, že v nich i spatřuji kořeny mého já. Ostatně na rozdíl od smíchovských prarodičů ze
 strany mé matky, jsem do Jiviny až do sedmnácti - osmnácti let, až na malé výjimky, jezdíval velmi často. Bez ní se
-neobešly ani velké příležitosti, ani velikonoce, nejednou i část vánočních svátků nebo pololetek. Vzpomínky na
-mládí jsou asi nejen u mne nejživější a nejbohatší, jsou zalidněni mnoha postavami a posťavičkami, dobrodružstvími
+neobešly ani velké příležitosti, ani Velikonoce, nejednou i část vánočních svátků nebo pololetek. Vzpomínky na
+mládí jsou asi nejen u mne nejživější a nejbohatší, jsou zalidněni mnoha postavami a postavičkami, dobrodružstvími
 i prvním zapalováním lýtek.
 
 ## Prarodiče
 
 Děda František měl přirozenou autoritu v rodině i ve vesnici, vyplývající z jeho znalostí, a z životní
 touhy chlapce z chudé rodiny někam to v životě dotáhnout, a z postavení, které si získal působením v řadě
-organizací. Jako vesnický vyučený švec znal z vandrů do Vídně i Budapešti centra rakousko-uherské monarchie,
+organizací. Jako vesnický vyučený švec znal z vandrů do Vídně i Budapešti centra Rakousko-uherské monarchie,
 leccěmus se tam naučil a začal vidět a myslet přes hranice své vesnice. Byl dvakrát ženat, babička Anna byla jeho
 druhou manželkou a seznámil se s ní prostřednictví vesnické dohazovačky. Zřejmě tyto osoby, ať již ženského, nebo
 mužského rodu byly tehdy rozšířenější institucí , než by se dalo usuzovat z postavy Kecala ve Smetanově Prodané
