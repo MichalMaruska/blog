@@ -83,7 +83,7 @@ roce 1780 byla ukončená jeho dědičnost. Ostatně dokladem toho jsou i výpis
 seznámil totiž v rodišti mé nevlastní matky v Boňkově na českomoravské vysočině se široce rozvětvenou rodinou
 Medových, z níž pocházela. Ve vesnici se však u jednotlivých rodin užívalo příjmení přízvisko podle původního
 povolání otců. Hovořilo se o Truhlářových a podobně. To mne přivedlo k hypotéze, že u našeho rodu usídleného v
-Jivině několik století , u pradědů s tradičním jménem František , se začalo přidávat rodové jméno po praprabábě
+Jivině několik století, u pradědů s tradičním jménem František, se začalo přidávat rodové jméno po praprabábě
 Marušce. Nebyla asi mohovitá, ale asi pěkně urostlá, zdrobnělina snad vypovídá o její oblibě.
 
 Osobně jsem poznal, jako nejstaršího člena rodu, prababičku Kateřinu. Narodila se v čase robotných povinností,
@@ -109,7 +109,7 @@ i prvním zapalováním lýtek.
 Děda František měl přirozenou autoritu v rodině i ve vesnici, vyplývající z jeho znalostí, a z životní
 touhy chlapce z chudé rodiny někam to v životě dotáhnout, a z postavení, které si získal působením v řadě
 organizací. Jako vesnický vyučený švec znal z vandrů do Vídně i Budapešti centra Rakousko-uherské monarchie,
-leccěmus se tam naučil a začal vidět a myslet přes hranice své vesnice. Byl dvakrát ženat, babička Anna byla jeho
+lecčemu se tam naučil a začal vidět a myslet přes hranice své vesnice. Byl dvakrát ženat, babička Anna byla jeho
 druhou manželkou a seznámil se s ní prostřednictví vesnické dohazovačky. Zřejmě tyto osoby, ať již ženského, nebo
 mužského rodu byly tehdy rozšířenější institucí , než by se dalo usuzovat z postavy Kecala ve Smetanově Prodané
 nevěstě. S babičkou nějakou dobu provozoval propachtovaný skromný hostinec v nedalekých Lhoticích, jejichž kostelní
@@ -121,12 +121,12 @@ náves a podle cest směřujících z ní do Borovice a do Neveklovic, s nimiž 
 stavení. V nich bydleli domkáři a místní řemeslníci, tedy lidé, kteří svá malá hospodářství, stěží živící kozy nebo
 kravku, doplňovali další činností.
 
-Děda si postavil domek, který zatížil hypotékálním úvěrem, a v něm si otevřel koloniál, tedy krámek se smíšeným
+Děda si postavil domek, který zatížil hypotekárním úvěrem, a v něm si otevřel koloniál, tedy krámek se smíšeným
 zbožím, tehdy první a jediný ve vesnici. To se přibližoval světový válečný konflikt a děda většinu zbývajících
 peněz proměnil ve zboží, které bylo trvalejšího charakteru a jehož nákup mu možná někdo doporučil. Bylo to zejména
 velké množství mýdla a homolí cukru. Že se tato operace vyplatila, o tom mi vyprávěla babička Anna. Z výnosu
 prodeje těchto zásob si vypomáhala přežít útrapy a strádání čtyřleté války. Bylo a žilo se jí těžko, všichni tři
-mužíští děda a oba synové byli povoláni do vojenské služby a ona sama se svou staříčkou maminkou jen ztěží na vše
+mužští děda a oba synové byli povoláni do vojenské služby a ona sama se svou stařičkou maminkou jen stěží na vše
 stačila.
 
 Válka skončila. Děda se krátky vrátil ve volných chvílích ke své předválečné lásce, k vesnickému divadlu jako
@@ -138,14 +138,14 @@ věnoval nejednu hodinu a ze vzrušující četby mne probouzelo pronikavé babi
 V půdním prostoru byly i jiné zajímavosti: především fotografie ochotnického souboru, na nichž jsem napočítal i
 kolem stovky postav s dědou v čele. Před časem mi řekl bratr Pavel, že při likvidaci harampádí na půdě v našem
 rodinném bytě v Karlíně našel bednu s listinnými dokumenty a mezi nimi vedle básniček mého otce i divadelní skripta
-opatřena rovněž otcovými poznámkami. Že by láska k divadu nacházela následovníky v dalších generacích rodu? V
-přístřeščích jivinského domku však byly i jiné relikvie. Řady starých škrpálů, verpánek a náčiní včetně dřevěných
-floků z dědova období ševcování. Asi se nemohl úplně rozejít se svým mladím spojeným s putováním .
+opatřena rovněž otcovými poznámkami. Že by láska k divadlu nacházela následovníky v dalších generacích rodu? V
+přístřešcích jivinského domku však byly i jiné relikvie. Řady starých škrpálů, verpánek a náčiní včetně dřevěných
+floků z dědova období ševcování. Asi se nemohl úplně rozejít se svým mládím spojeným s putováním .
 
 Jinou jeho vášní provázející ho po celý život byla horečná zakladatelská a veřejná činnost.
 
 Pojizeří a Český ráj mají silnou husitskou tradici, která přetrvávala v dobách protireformačního a germanizačního
-útlaku. Pod kopcem Mužský u Mnichova Hradiště je skalní pískovcový útvar Drábské světnicky a v nich ukryta jeskynní
+útlaku. Pod kopcem Mužský u Mnichova Hradiště je skalní pískovcový útvar Drábské světničky a v nich ukryta jeskynní
 modlitebna Českých bratří. Ale i v jiných končinách rodného kraje jsem se setkával při prázdninovém putování s
 odkazy národního hnutí, jež svou opravdovostí a touhou po sociální spravedlivostí překročilo rámec české
 vlasti. Nevím jak hluboko zasahovalo do života mých předků. Dědeček však byl mezi prvními, kteří po roce 1918
@@ -156,7 +156,7 @@ ve sféře věroučné činnosti být oporu idejí samostatné republiky. V mís
 obyvatelstva byla nábožensky věřící, získávala do svých řad většinou chudší nemajetné vrstvy a vesničany převážně
 odkázané na vlastní práci. Katolická strana, její faráři a militantní stoupenci na její založení odpověděli kroky,
 jež si nezadaly s nenávistí i ve věcech posledních. Byl vyhlášen zákaz pohřbíváni zesnulých příslušníků nové církve
-na hřbitově v sousedním Klášteře, katolicttí představitelé dosáhli zlovolnou kampaní, že byla znemožněna kolaudace
+na hřbitově v sousedním Klášteře, katoličtí představitelé dosáhli zlovolnou kampaní, že byla znemožněna kolaudace
 místního hřbitova v Jivině, k jehož budování dala podět zmíněná diskriminace a podobně.
 
 Na půdě jsem také našel několik předválečných a poválečných čteníků týdeníků Svět v obrazech, jehož předplatitelem
