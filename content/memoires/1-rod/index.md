@@ -278,7 +278,7 @@ O rodičích mé maminky si z mozaiky vzpomínek na rozdíl od Jiviny mohu poskl
 často mlžný obrázek. Souvisí to s předčasnou smrtí mé matky, po níž nás, mne a sestru, ovdovělý a
 potom opět ženatý otec nevedl k tomu, abychom mohli udržovat se Steigrovými styky. Ty byly
 dlouhodobě, až na výjimky přerušeny. Děda byl železničářem. Tehdy mladé pracovníky překládali
-z jedné stanice na druhou. A tak se v křestních listech eacho devíti dětí, odrážela i jména dědovy
+z jedné stanice na druhou. A tak se v křestních listech jeho devíti dětí, odrážela i jména dědovy
 životní pouti po vlastech českých. Vzpomínám si na babiččino vyprávění o tom, jak byl na jedné
 stanici děda povýšen na jejího přednostu. Zaznamenávám tuto příhodu, neboť mi něco říkala i o
 tehdejší době. Na nádraží vedlejší tratě v jižních Čechách přijela ručně poháněná drezína. Bylo
@@ -295,7 +295,7 @@ v Loucké u Roudnice na Labem - ta uměla vařit.
 
 V mých vzpomínkách vidím již dědu ve výslužbě: Bylo to v polovině třicátých let. Byl na rozdíl od
 jivinského štíhlého a pohyblivého dědy, korpulentní, šedé vlasy mu tvořily kruh podél lysiny.
-Chodil vždy s holí, naše nejzászký ze smíchovské ulice Na Březince 16, kde bydlel, nejednou vedly
+Chodil vždy s holí, naše vycházky ze smíchovské ulice Na Březince 16, kde bydlel, nejednou vedly
 podél nádražního uhelného skladu až dolů k Vltavě. Zřejmé se nemohl dlouho odloučit od svého
 posledního pracoviště, kde s titulem a distinkcemi vrchního oficiála řídil správu skladu.
 Děda se nám, dětem své nejstarší dcery, dosti věnoval. Nejednou mne vzal i do divadla na
@@ -308,7 +308,7 @@ plno a veselo. Tehdy v bytě o dvou místnostech, s obývací kuchyní a pokojem
 babičky, bydleli strýcové Váša, Jirka, Pepík a dvě mladší tety Lída a Růženka. Specialitou mé
 smíchovské babičky byla pečená telecí ledvina s knedlíkem a špenátem. Všichni přítomní nikdy
 nešetřili chválou a oprávněným uznáním kuchařského umění pýchou se usmívající babičky. Já při
-obědí míval dvojí úlohu. Došel jsem přes ulici do malého výčepu pro půllitru plzeňského a při
+obědě míval dvojí úlohu. Došel jsem přes ulici do malého výčepu pro půllitru plzeňského a při
 návratu jsem ulizoval z jeho načechrané pěny. Když si děda po obědě, zavlaženém tímto mokem,
 utřel bílou pěnu z prošedivělých vousů, vyhledal jsem mu na šifonéru krabičku s viržínky a
 sledoval, jak si stéblem sváteční pochoutku upravuje, zapaluje a posléze z úst pomalu vypouští
@@ -319,17 +319,17 @@ doprovázel zřídka. Jednak mu to nedovolovala jeho téměř nepřetržitá sed
 takové byly v tehdejší krizové době podmínky u kuchařů - jednak se asi v dědově rodině necítil ve
 své kůži. Párkrát jsem však s ním a dědou, nebo s některým ze strýců, šel na procházku do parku na
 Santošce a jednou na rodinný výlet do jinonických luk. Když jsem jako osmiletý kluk byl na
-prázdninách, dostali jsme zprávu, že děda se musel narychlo podobit operaci a záhy na zákeřnou
+prázdninách, dostali jsme zprávu, že děda se musel narychlo podrobit operaci a záhy na zákeřnou
 nemoc zemřel.
 
 Smíchovská babička porodila devět dětí. Dědečkova údajně nejmilejší dcera Kristýnka zemřela
-v šestnácti letech na zážkrt. Ze strýců mne byl nejbližší nejmladší Pepík. Nedostudoval gymnázium
+v šestnácti letech na záškrt. Ze strýců mne byl nejbližší nejmladší Pepík. Nedostudoval gymnázium
 a pracoval v obchodě uhlím. Byla s ním legrace, rozuměl si se mnou i s mojí manželkou. Jeho
 skopičiny by vydaly na kapitolku. Z tet pak poslední dítě teta Růža. Vzpomínám si na ní, když ještě
 navštěvovala soukromou obchodní škola. Pracovala pak u advokáta nebo snad u notáře v Nuslích.
 Tam se seznámila se svým budoucím manželem Honzou Hrubantem, s ním jsem se později velmi
 sblížil. Zvláštní postavení měl v rodině nejstarší syn, nazývaný Neto. Byl hlavním pokladníkem na
-karlovarském nádraží. Ve městě patřil k předním šiřitlům české kultury. Hrál a organizačně
+karlovarském nádraží. Ve městě patřil k předním šiřitelům české kultury. Hrál a organizačně
 působil v českém divadle, na jehož pomoc přijížděli z Prahy významní profesionálové. Pyšnil se
 fotografiemi s věnováním Scheinflugové, Vydry staršího a dalších našich velikánů. Při rodinných
 sešlostech, které však byly řídké, se vždy dal přesvědčit a s patosem, poplatným té době, zarecitoval
@@ -372,8 +372,8 @@ do Hradiště do obchodu střižním zbožím. Tehdy děda vyjednal v Praze uče
 restauratérovi Nezdarovi v prvním roce na učení, stravu a ubytování, nakoupil kuchařské oblečeni a drahé nože ze
 solingenské oceli. Ale když měl strýc nastoupit, zlomil si ruku. Protože v Praze bylo vše dojednáno a nástupní den
 byl pevně potvrzen, musel do učení nastoupit otec. Babička mi vyprávěla, jak tatínek dědu úpěnlivě prosil, aby ho
-od sebe neposílal. Ale nic naplat, děda byl neoblomný. Babičina přímluva se se zlou potázala. A tak otec šel,
-poznával svojí celoživotní profesi a město v němž uvízl na celý život. Jívina mu byl rájem dětství, lesů a polí s
+od sebe neposílal. Ale nic naplat, děda byl neoblomný. Babiččina přímluva se se zlou potázala. A tak otec šel,
+poznával svojí celoživotní profesi a město v němž uvízl na celý život. Jivina mu byl rájem dětství, lesů a polí s
 dlouhými panskými alejemi. Vyučil se, probil se poválečnou krizí a vypracoval se na uznávaného odborníka. V našem
 karlínském bytě viselo na stěnách mnoho diplomů svědčících o jeho kulinářském umu. Vydal kuchařku, byl zvolen
 předsedou Svazu československých kuchařů, který bez ohledu na politickou příslušnost sdružoval kuchaře, číšníky,
@@ -402,7 +402,7 @@ anebo bratrů. Vždy se něco našlo, čím je pohostila, nejčastěji to byl br
 slanečkem. Ty se tehdy prodávaly přímo z dřevěných sudů dovážených z ciziny. Kolik se toho na těchto posezeních
 namluvilo, jak si sourozenci ulevovali od svých strastí, a těch měli asi víc než dost. Já i malá sestra jsme rovněž
 byli středem pozornosti i když jsme přes protesty museli jít dříve spát, zatím co v kuchyni rozhovory a zábava dále
-pokračovaly. Jak těžko se nám, zejména mně, usínalo a kolikrát jsem otevíral dřeve a vymlouval se, že se mi chce
+pokračovaly. Jak těžko se nám, zejména mně, usínalo a kolikrát jsem otevíral dveře a vymlouval se, že se mi chce
 čurat.
 
 Maminka svá studia za zdravotních důvodů nemohla dokončit. Po válce se svou sestrou Annou začala pracovat jako
@@ -420,10 +420,10 @@ borůvkovou marmeládou, posypaná strouhaným tvarohem a na vrchu rozeta z jogu
 vytvářela při přípravě vánočního cukroví. Jen pro její dvě jídla jsem neměl pochopení, pro hovězí polévku s rýží a
 rajskou omáčku s bramborem. To mi zůstalo dodnes.
 
-Když jsem já i sestra povyrostly, vycíťoval jsem, že není plně uspokojena s postavením matky a ženy v
+Když jsem já i sestra povyrostly, vyciťoval jsem, že není plně uspokojena s postavením matky a ženy v
 domácnosti. Proto zřejmě uvítala změnu, když jsme se přestěhovali do služebního bytu ve Vítkově ulici v
 Karlíně. Měla tam blízko k tátovi a ráda mu vypomáhala v pokladně i v kuchyni. V roce 1934 zemřela. Nebylo jí ani
-39 let. O vánocích jsme celá rodina dostali silnou chřipku. Maminka přecházela nemoc, neulehla a s horečkami se o
+39 let. O Vánocích jsme celá rodina dostali silnou chřipku. Maminka přecházela nemoc, neulehla a s horečkami se o
 nás starala. Pak to přišlo. Vrátil jsem se v poledne ze školy a radostně jsem ji ukazoval primánské pololetní
 vysvědčení s vyznamenáním. Pak jsme usedli k obědu. Náhle maminka zbledla a zkolabovala. Celý vyděšený jsem běžel
 dolů do hostince pro tátu. I když táta jí zajistil to nejlepší ošetření, byl u ní náš rodinný karlínský lékař a též
@@ -435,7 +435,7 @@ před narozením mé sestry Heleny, která je o čtyři roky mladší. Bydleli j
 v Dostálově ulici v řadě s ministerstvem národní obrany. Garsonka měla litinová kamna na uhlí,
 spíž, která zároveň sloužila k uskladnění části paliva, na stěně u kamen vodovod s litinovou mísou.
 Dveře vedly na širokou společnou chodbu. Z ní vedly další dveře na pavlač. Na ní jsem si hrával se
-sousedovic o dva roky starší holčičkou. Půjčoval jsem jí houpacího koníčka s pravou hříbčcí kůží, s
+sousedovic o dva roky starší holčičkou. Půjčoval jsem jí houpacího koníčka s pravou hříběcí kůží, s
 ní jsem na stoličce pokrajoval listy ze zeleniny. Byla to milá ale posmutnělá kamarádka. Její rodiče
 byli emigranti z Ruska, její otec v Praze studoval vysokou školu za stipendijní podpory udělované
 naší tehdejší vládou. Prostředků neměli nazbyt a tak od nich z pokojů zněly časté hádky, po nichž
@@ -455,7 +455,7 @@ poslední živý mikulášovský trojlístek. Od té doby jsem si já a později
 okno punčochy a ráno jsme hned probuzeni je žádostivě otevírali, co v nich kromě brambor
 pěkného najdeme. Jak ukazují mé zkušenosti, jako pozdějšího otce, snad každé dítě kolem třetího
 roku svého věku si začíná uvědomovat svojí individualitu a tu a tam s rodiči nesouhlasí nebo se
-staví na odpor. Ročič pak zasahuje a děcko umravňuje s cílem upevnit svou autoritu. Můj první
+staví na odpor. Rodič pak zasahuje a děcko umravňuje s cílem upevnit svou autoritu. Můj první
 střet,  na  nějž  si  vzpomínám  se  udál  při  přechodu  ulice.
 Začátkem dvacátých let se v Praze, jako novém hlavním městě, hodně stavělo. Popudem byla
 bytová krize. Louky a různě prolákliny, na něž tehdy byly Dejvice bohaté, se začaly hloubit nebo
