@@ -157,7 +157,7 @@ obyvatelstva byla nábožensky věřící, získávala do svých řad většinou
 odkázané na vlastní práci. Katolická strana, její faráři a militantní stoupenci na její založení odpověděli kroky,
 jež si nezadaly s nenávistí i ve věcech posledních. Byl vyhlášen zákaz pohřbíváni zesnulých příslušníků nové církve
 na hřbitově v sousedním Klášteře, katoličtí představitelé dosáhli zlovolnou kampaní, že byla znemožněna kolaudace
-místního hřbitova v Jivině, k jehož budování dala podět zmíněná diskriminace a podobně.
+místního hřbitova v Jivině, k jehož budování dala podnět zmíněná diskriminace a podobně.
 
 Na půdě jsem také našel několik předválečných a poválečných čteníků týdeníků Svět v obrazech, jehož předplatitelem
 byl zvídavý děda. Časopis byl bohatě ilustrován dobovými fotografiemi a kresbami k reportážím. Zaujaly mne snímky z
@@ -176,18 +176,18 @@ jeho konkrétních krocích pro rozkvět obce vím jen to, že za jeho starostov
 svépomocné spořitelny Kampelička, v níž dlouhá léta působil jako dobrovolný pokladník. S jeho podporou se vybudoval
 na jiném místě hřbitov a modlitebna sboru církve československé. Tam také odhaloval pamětní desku padlým za první
 světové války. Vidím ho, jak při čtení jejich jmen mu vyhrknou slzy, zarazí se, když vyslovuje jména těch, kteří
-zřejmě patřili mezi vrstevníky a kamarády. Dbal také o pořádek a čistotu v obci, a aby i o ty nejobožejší a
+zřejmě patřili mezi vrstevníky a kamarády. Dbal také o pořádek a čistotu v obci, a aby i o ty nejubožejší a
 nejchudší bylo postaráno, alespoň v malém obecním chudobinci.
 
 Děda miloval přírodu, jeho oblíbenými místy byly lesy. Nelenil a i v nepohodě, v době volna a pak dlouholetého
-výměnku, časně ráno vstával a k osmé ranní se vracel provoněný jehličím s uzlíkem hub a kytickou jahodiní nebo
+výměnku, časně ráno vstával a k osmé ranní se vracel provoněný jehličím s uzlíkem hub a kytičkou jahodiní nebo
 borůvčí, plných zralých bobulí. Tím nás po snídani obdarovával. Houby nacházel snad i v době kdy „nerostly“. Tak
 důvěrně znal lesní hvozdy, paseky i stráně. Rád se chodil, tajně, v teplých dnech svlažovat a mýt do potoka
 Zábrdka, který protéká údolíčkem ohraničeném na západní straně rozsáhlým lesním komplexem nazývaným
 Borek. Několikrát jsem zahlédl při svých toulkách údolím mezi vrbami a olšemi jeho bílé stařecké tělo.
 
 Láska k lesu ho přivedla do mysliveckého spolku, kde patřil k jeho předním činitelům. Podkrovní světničku zdobily
-jeho trofeje. Tetřev hlušec, tetřívek, divoká kachna a drobné paroži patřily mezi ně. V době mého mládí bylo v
+jeho trofeje. Tetřev hlušec, tetřívek, divoká kachna a drobné paroží patřily mezi ně. V době mého mládí bylo v
 okolních lesích mnoho divokých králíků, kteří vesničanům působili značné škody na úrodě. Proto byl povolen jejich
 neomezený odstřel a tak se občas na prázdninovém
 stole objevila jejich pečínka. O lese a jeho zvěří i ptácích uměl děda ve vzácných chvílích zaujatě
@@ -196,15 +196,15 @@ odkrývat jejich skrýše mne a mé dětské druhy nejednou zavedla až do vzdá
 skalách byly ukryty větší jeskyně. O nich jsme si s kluky pak vykládali, že v nich asi sídlil pravěký
 člověk.
 
-Na vesnicích bylo nepsaným pravidlem, že hospodářství přebíráli zpravidla nejstarší syn a předávalo
+Na vesnicích bylo nepsaným pravidlem, že hospodářství přebírali zpravidla nejstarší syn a předávalo
 se mu v době, když se ženil. Tak to bylo i v dědově rodině. Děda s babičkou šli na výměnek
 stanovený „jako ke stravě“. Ale mezi starými a mladými to brzy přestalo klapat a děda, známý svou
-výbušnou povahou citlivou na sebermenší křivdu, dal změnit smlouvu na jakési deputátní plnění,
+výbušnou povahou citlivou na sebemenší křivdu, dal změnit smlouvu na jakési deputátní plnění,
 formou dodávek určitého množství sklizených plodin.
 Ponechal si jednu z dolních seknic a malou podkolnu a začal pracovat jako vedoucí hospodářského
 zemědělského skladu v Mnichově Hradišti. Tam také vedla naše cesta pokaždé když jsme s rodiči
 vystoupili z vlaku.
-Babičku Annu přežil děda o 10 let. Zemřel koncem roku 1950 v nedožitých osmdesátidvou letech.
+Babičku Annu přežil děda o 10 let. Zemřel koncem roku 1950 v nedožitých osmdesáti dvou letech.
 Se synem Míšou jsem kráčel jako první ve smutečním průvodu. Zdálo se mi, že ho doprovází celá
 Jivina. O důstojný doprovod se postarala smuteční kapela, řízena dědovým bratrem Václavem. Do
 truchlivého aktu, spouštění rakve do nitra rodinné hrobky, zazněl dětský Míšův hlásek. „Táto, proč
@@ -225,7 +225,7 @@ babička trávila večery osaměle. Děda měl velmi často povinnosti mimo dům
 s radními, s myslivci a dalšími spolubesedníky - to patřilo k jeho zájmu i povinnostem. I když jsem
 měl silné nucení, abych se přidal k bujnější partě, často jsem zůstával v černé hodince sám s
 babičkou a ta mi ráda vyprávěla o životě zamlada, o životě na vesnici a vytvářela mi barvitý
-obrázek tehdejší doby. Zaujalo mne vyprávění o prabě, která trávila svá poslední léta na peci.
+obrázek tehdejší doby. Zaujalo mne vyprávění o prabábě, která trávila svá poslední léta na peci.
 
 Pec. Jednou v zimě jsem u mého kamaráda Járy Kuntoše ležel na peci. Ten den ráno v ní teta pekla
 chléb. Večer ve velké díži, na jejíž stěně ulpíval kvásek od posledního zadělávání, připravila těsto,
@@ -233,10 +233,10 @@ aby do rána  pěně vykynulo. Bochníky pokřižovala a sázela do pece, při t
 vzpomněla malým bochníčkem. Nejraději jsem jedl popraskané rozšklebené kůrky ožehnuté
 zapomenutými oharky. Za lukulské hody jsem považoval, když současně u strýce Františka, staršího
 bratra mého otce se tlouklo máslo. To jsem kolem tak dlouho okouněl, až mu to nedalo a vylovil
-z máselnice uhnětený kousek másla a podal mi ho, abych si jím vylepšil teplý krajic.
-A k tomu se pilo podmáslí. V Jivině se spřiznění v pečení chleba střídali a upečené bochníky si
+z máselnice uhnětený kousek másla a podal mi ho, abych si jím vylepšil teplý krajíc.
+A k tomu se pilo podmáslí. V Jivině se spříznění v pečení chleba střídali a upečené bochníky si
 vyměňovali. Nejednou jsem je s Járou roznášel.
-Z babičina vyprávění se mi líbily příběhy o bábě kořenářce, která na podzim chodila po vesnici a
+Z babiččina vyprávění se mi líbily příběhy o bábě kořenářce, která na podzim chodila po vesnici a
 prodávala různé léčivé bylinky nasbírané a usušené až ve vzdáleném Podještědí. Babička Anna si
 jimi doplňovala zásoby k těm, které jsem ji pomáhal u lesa nebo na loukách sbírat: mateřídoušku,
 diviznu, kozí pysk a další, jejichž jména mi už vypadla z pamětí. V úhledných plátěných pytlících
@@ -245,22 +245,22 @@ jen se vzácným zbožím. Byla pro babičku i zdrojem různých zpráv „ze sv
 mého mládí nebyly ojedinělé, ve vsi se pravidelně objevovaly báby krosnářky. U hospodyň, s nimiž
 se od častého styku důvěrně znaly, vykupovaly vejce, selské, podomácku stloukané máslo a tvaroh,
 občas i drůbež. S těžkým nákladem, v krosně na zádech, se vracely pěšky do Podještědí a v jeho
-centreich, zejména v průmyslovém Liberci, plody vesnice prodávaly na místních tržích. Prodej
+centrech, zejména v průmyslovém Liberci, plody vesnice prodávaly na místních trzích. Prodej
 produktů domácího zvířectva byl zdrojem vlastního osobního příjmu vesnických hospodyň.
 Hlavním peněžním zdrojem rolníků bylo zpeněžení dobytka a obilí. Brambory a krmná řepa se
 v Jivině pěstovaly pro domácí spotřebu. U babičky se vařilo skromně jako ve většině vesnických
 domácností. Polévka, z toho co zahrádka a les dal, doplňována krupkami nebo podomácku
-připravovanými těstovinami, nebo jinak zahušťována. Pět dní v týdnu tvořily hlavní jídlo nerůznější
+připravovanými těstovinami, nebo jinak zahušťována. Pět dní v týdnu tvořily hlavní jídlo nejrůznější
 zahuštěné omáčky s brambory anebo knedlíky. U babičky se podávalo maso dvakrát týdně. Ve
-čtvrtek a v neděli. To den před tím přijel, vlastně přišel z Hradiště mohutný řezník s žebříňáčkem,
-taženým neméně těžlnatým bernardýnem. Vozík byl naložen zabaleným porcovaným masem a nad
+čtvrtek a v neděli. To den před tím přijel, vlastně přišel z Hradiště mohutný řezník s žebřiňáčkem,
+taženým neméně tělnatým bernardýnem. Vozík byl naložen zabaleným porcovaným masem a nad
 ním se vznášela hejna lačnících much. Maso se tehdy kupovalo v malém množství půl liberky,
 liberka. Ti co hospodařili ve většin, byli většinou samozásobiteli, u nich to vonívalo pečenou
 drůbeží, v chladných měsících pak zabijačkou a vonnými hody. Z masa připravovala
 babička často sekanou nebo smažila řízky anebo pekla vepřové. Nic nesmělo přijít nazmar, když
 zbyly brambory, rozmačkala je a spojila moukou a ke kávě jsme rádi přikusovali její placky
 dopékané na teplých plátech plotny. Zatím co dědečkovým pracovním místem byl podlouhlý stůl
-přitisknutý k čelní stěně seknice, na němž vévodily americké bicí strunové hodiny, dar od babičina
+přitisknutý k čelní stěně seknice, na němž vévodily americké bicí strunové hodiny, dar od babiččina
 bratrance Koláře, krejčího usedlého z doby první válkou v Clevelandu. Babiččin kapitánský
 můstek byl u kamen s fialovými kropenatými kachlemi.. Kamna měla dvě trouby nad sebou,
 nezbytný měděnec (na teplou vodu), a delší plechový komínek, který ústil do hlavního komínu
@@ -274,7 +274,7 @@ Prabába, děda a babička jsou pochováni na jivinském hřbitově. Dnešní do
 mrtvých. Přesto neopomenu při návštěvě rodové vesnice navštívit poslední místo jejich spočinutí a
 ve vzpomínkách na milé tváře, se v pokoře poklonit jejich památce.
 
-O rodiích mé maminky si z mozaiky vzpomínek na rozdíl od Jiviny mohu poskládat jen neúplný a
+O rodičích mé maminky si z mozaiky vzpomínek na rozdíl od Jiviny mohu poskládat jen neúplný a
 často mlžný obrázek. Souvisí to s předčasnou smrtí mé matky, po níž nás, mne a sestru, ovdovělý a
 potom opět ženatý otec nevedl k tomu, abychom mohli udržovat se Steigrovými styky. Ty byly
 dlouhodobě, až na výjimky přerušeny. Děda byl železničářem. Tehdy mladé pracovníky překládali
@@ -309,8 +309,8 @@ babičky, bydleli strýcové Váša, Jirka, Pepík a dvě mladší tety Lída a 
 smíchovské babičky byla pečená telecí ledvina s knedlíkem a špenátem. Všichni přítomní nikdy
 nešetřili chválou a oprávněným uznáním kuchařského umění pýchou se usmívající babičky. Já při
 obědí míval dvojí úlohu. Došel jsem přes ulici do malého výčepu pro půllitru plzeňského a při
-návratu jsem ulizoval z jeho načechanré pěny. Když si děda po obědě, zavlaženém tímto mokem,
-utřel bílou pěnu z prošedivělých vosůů, vyhledal jsem mu na šifonéru krabičku s viržínky a
+návratu jsem ulizoval z jeho načechrané pěny. Když si děda po obědě, zavlaženém tímto mokem,
+utřel bílou pěnu z prošedivělých vousů, vyhledal jsem mu na šifonéru krabičku s viržínky a
 sledoval, jak si stéblem sváteční pochoutku upravuje, zapaluje a posléze z úst pomalu vypouští
 vonný kouř - sváteční atmosféru rodinné sešlosti. Místem mých dětských hrádek byl u Steigrů
 prostor pod stolem v pokoji. Místnost byla po celý rok bez slunce, ve stínu a chladná. Na stěně
