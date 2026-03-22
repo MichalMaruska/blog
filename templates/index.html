@@ -2,6 +2,11 @@
 
 {% block content %}
 <h1 class="title">
-  This is my blog made with Zola.
+  Index
 </h1>
+
+{% for post in section.pages %}
+  <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+{% endfor %}
+
 {% endblock content %}
