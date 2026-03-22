@@ -31,10 +31,10 @@ horách a protéká malebným Českým rájem. Vzpomínám si , že babička Ann
 zrádné Izeře a varovala mne před jejími víry. Řeka a její jméno mne lákalo od dětství. Rodiště mých
 předků z otcovy strany Jivina si našla místo na protáhlém stoupajícím terénu , který se zvedá
 z údolní nížiny u Mnichova Hradiště a míří povlovně k mohutnému Ještědu. Na východní straně
-protéká Jizera. Ta mne nejen jako řeka, kderjsem v parném prázdninovém létě zchlazoval se svými
+protéká Jizera. Ta mne nejen jako řeka, kde jsem v parném prázdninovém létě zchlazoval se svými
 kamarády rozpálené tělo, ale i svým jménem upozorňovala, že v době asi od 4. století před naším
-letopočtem sídlili v okolí jejího toku latenští Keltové. Na jejich přítomnost upozorňují i nálezy
-uchovávané v expozici v mnichovohradišském muzeu.
+letopočtem sídlili v okolí jejího toku laténští Keltové. Na jejich přítomnost upozorňují i nálezy
+uchovávané v expozici v mnichovohradišťském muzeu.
 V historické posloupnosti měli naším krajem zřejmě procházet i markomanští Germáni. Přímo na
 jejich stopy jsem v dětství nenarazil. Západním směrem se rozprostírají rozsáhlé lesní komplexy,
 jímž vévodí přemyslovský Bezděz, jehož pochmurné okolí se skalními útesy a temné modrou
@@ -51,7 +51,7 @@ brněnské zvěrolékařské fakultě přes Prahu k rodičům. Hned jsme se spř
 mne do Jiviny přijel a na rámu pánského kola mne odvezl na několik dní do Mimoně. Jeho otec
 povoláním řezník byl již na výměnku a česky toho mnoho neznal. Rudiho maminka, sestřenice
 babičky Anny, byla z téže rodné vesnice Koryt u Českého Dubu a jako ona si uchovala zpěvavý
-pojizerský český dialekt. Měla tři děti a jak různé to byly povahy. Něco vypovídá i tetiččin povzdech na zahrádce,
+po-jizerský český dialekt. Měla tři děti a jak různé to byly povahy. Něco vypovídá i tetiččin povzdech na zahrádce,
 kam mne vzala trhat rybíz a angrešt. Když mne vyprávěla o svém nelehkém životě, zakončila svojí zpověď slovy: ,,víš
 chlapečku, takový je osud českých žen v Němcích. Německy jsem se nenaučila a česky pozapomínám.“ . Nejstarší syn
 Karel, byl později zuřivým nacistou a tak po válce musel přesídlit do autentických Němec. Dcera Marie, česká
@@ -66,7 +66,7 @@ Velmi mne zajímal vznik jména Jiviny. V okolí je několik vesnic, jejichž n�
 Borovice, Bukovina. V dřívějších dobách se říkalo ,,jdeme k borům, k bukům, k jívám“, tedy do míst, kde bývalá
 pohanská kultovní místa. Bylo takové místo i na křižovatce dnešních cest u horní návsi Jiviny? Děda František mi
 jednou vyprávěl, že na tomto místě před mnoha lety stávala hájovna. V katastrálním archivu jivinského zemědělského
-družstva se uchovala mapa, kde je zakreslena jen kruhovitá dolní náves, o té jsem se také dočel v jednom
+družstva se uchovala mapa, kde je zakreslena jen kruhovitá dolní náves, o té jsem se také dočetl v jednom
 místopise. Jivina je tam popisována jako ves původního slovanského osídlení. To připomíná i stará lípa stojící
 uprostřed staré návsi, u ní býval rybníček. Pod lípou, jak se pamatuji z nejmladších svých let, hrávali ochotníci
 vlastenecké hry.
@@ -471,4 +471,3 @@ dějinám, k dávným shromážděním pod věkovitou lípou na dolní návsi, k
 husitského hnutí a jeho tradic. V tom je i úcta k pracovitosti ale i k podnikavosti a touze překročit
 hranice pouhého vidění vesnice, města a země. Přičinit se vlastní pílí o své lepší a neparazitovat na
 výsledcích druhých.
-
