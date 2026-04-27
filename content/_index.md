@@ -22,3 +22,5 @@ sort_by = "date"
 * 2024-12-16 [syncing-reprepro-as-git](syncing-reprepro-as-git/index.md)
 * 2026-01-28 [second-4-months-of-rust](second-4-months-of-rust/index.md)
 * 2026-02-12 [on-wide-displays-this-is-original](on-wide-displays-this-is-original/index.md)
+* 2026-04-27 [using-github](using-github/index.md)
+
