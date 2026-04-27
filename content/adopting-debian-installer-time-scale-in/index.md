@@ -21,7 +21,7 @@ After 6 years, in 2022 (having used those tools about 10 times) I started to sus
 
 And indeed in April 2023 I tried out the [debian-installer](https://www.debian.org/releases/stable/amd64/index.en.html) (the "hd-media" option), with some pre-seeding.
 
-Then I needed more than pre-seed & targeting *unstable*/SID: I wanted to understand all possible disk encryption setups, and using my additional [apt repository](https://github.com/MichalMaruska-TomTom/michalmaruska-tomtom.github.io) (+ apt configuration).
+Then I needed more than pre-seed & targeting *unstable*/SID: I wanted to understand all possible disk encryption setups, and using my additional [apt repository](https://github.com/MichalMaruska/michalmaruska.github.io) (+ apt configuration).
 
 ## Experiments
 
