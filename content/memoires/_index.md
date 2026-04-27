@@ -1,5 +1,5 @@
 +++
-title = "M. Maruska: Vzpominky"
+title = "M. Maruška: Vzpomínky"
 draft = false
 sort_by = "title"
 
@@ -13,5 +13,3 @@ page_template = "page-cz.html"
 Autor: Miroslav Maruška, narozen 23. 4. 1923, v Praze
 
 Vydáno u příležitosti 80. narozenin autora
-
-
