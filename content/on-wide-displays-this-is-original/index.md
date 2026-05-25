@@ -26,3 +26,6 @@ It's better to keep the narrow history **list** to the side, while the main **di
 
 
 The changes are in [gitk-wide branch](https://github.com/MichalMaruska/git/commits/gitk-wide/)
+
+
+Update 2026: I started to convert this tcl into Rust/egui [project](https://github.com/MichalMaruska/gitk-rs)
