@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Starting to port Forking keyboard driver to Windows
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2024-11-11</strong></p>
+<h2 id="introduction">Introduction</h2>
+<p>After 20 years of developing a &quot;forking&quot; keyboard driver for Xfree86/Xorg, I decided to finally attempt to make it
+available on Windows.</p>
+<p>As a first step I split the code into portable core, and the interfacing code for Xorg. <a href="https://github.com/MichalMaruska/fork-plugin/blob/master/doc/porting-to-weston.md">In a couple of days</a> I implemented such an <a href="https://github.com/MichalMaruska/fork-plugin/tree/master/libinput">adapter</a> for the &quot;libinput&quot; to be used in Weston (Wayland).</p>
+<h2 id="plan-for-windows">Plan for Windows</h2>
+<p>Encouraged by the easy adapter (for libinput), I started to assemble the available tools for Windows:</p>
+<ol>
+<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk">wdk</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk">visual studio</a></li>
+<li>a &quot;target&quot; machine (KVM+Qemu running Windows).</li>
+</ol>
+<p>Requirements for 3. included public IP for the guest VM (<a href="https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Window-10-computer-does-not-reply-to-ping/ta-p/286927">ping</a> should be possible).</p>
+<p>virt-install --name win11 --cdrom Win11_24H2_EnglishInternational_x64.iso</p>
+<p>virt-viewer win11</p>
+<h2 id="host-machine-setup">Host machine setup</h2>
+<p>Installing VS was easy, and included a misleadingly named &quot;wdk-extension&quot; which did <strong>not</strong> include WDK itself. So ntddk.h
+header was <em>missing</em> during the first builds. Installing WDK properly solved that.</p>
+<h2 id="target-machine">Target machine</h2>
+<p>Regarding <a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/provision-a-target-computer-wdk-8-1">preparation</a> ... just re-read and execute correctly the steps.</p>
+<p>I didn't install any SDK or VStudio on the target PC! Only the WDK.</p>
+<p>For &quot;non-enhanced mode&quot; ....I didn't do anything with my KVM/Qemu setup.</p>
+<p>WDK Test Target Setup MSI ... indeed provided by WDK. (If by chance you install SDK, you will find other MSI files but those are irrelevant.)</p>
+<p><strong>Provisioning</strong> made inside VS (on the host) ... sometimes fails. Repeating can fix it.</p>
+<p>This create the WDKRemoteUser account (on the target) and logs as it. On one physical machine I couldn't login as it has an unknown password.</p>
+<h2 id="deploying">Deploying</h2>
+<p>I started to try-out <a href="https://github.com/Microsoft/Windows-driver-samples">Sample drivers</a>. In particular the <a href="https://github.com/microsoft/Windows-driver-samples/tree/main/input/kbfiltr">kbfilter</a>. Deploy <strong>failed</strong>.</p>
+<ul>
+<li>one can see the XML logs... one has to understand that &quot;Driver Test Group Explorer&quot; tab is sibling of &quot;Git Changes&quot; and &quot;Solution Explorer&quot;.</li>
+<li>Or you can make a video of the terminals opened on the target -- they disappear quickly.</li>
+</ul>
+<p>The message is the same in both &quot;Cannot create a stable subkey under a volatile parent key&quot;. Other failures could be present too.</p>
+<p>So re-read the <a href="https://github.com/microsoft/Windows-driver-samples/blob/main/input/kbfiltr/README.md">Readme</a> and the <a href="https://github.com/microsoft/Windows-driver-samples/blob/main/input/kbfiltr/sys/kbfiltr.inx">INF file template</a></p>
+<ul>
+<li>Set the hardware ID in the inx file</li>
+</ul>
+<p>I didn't see any</p>
+<blockquote>
+<p>WdfCoinstaller010xx.dll
+The coinstaller for version 1.xx of KMDF.</p>
+</blockquote>
+<h2 id="manual-build">Manual build</h2>
+<p>Using MSBuild ... does work, but does not help with the deployment.</p>
+<h2 id="manual-deployment">Manual deployment</h2>
+<p>So, while searching for solutions of the aforementioned issues I learned:</p>
+<ul>
+<li>
+<p><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/debugview">dbgview</a> seems similar to dmesg of linux. But it crashes sometimes (disappears). How to see messages during the boot?
+To see kernel message it must be run &quot;as administrator&quot; !</p>
+</li>
+<li>
+<p><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-install">devcon</a> tool -- mysterious tool installed during the provisioning (by VS)</p>
+</li>
+</ul>
+<p>https://github.com/hawku/TabletDriver/issues/225</p>
+<p>I looked at the github issues of the sample drivers -- for example:</p>
+<p>about <a href="https://github.com/microsoft/Windows-driver-samples/issues/198">devcon install</a>.</p>
+<ul>
+<li>regedit  .... indeed ... there is a key which is <strong>crucial</strong>:</li>
+</ul>
+<p><a href="https://learn.microsoft.com/en-us/samples/microsoft/windows-driver-samples/keyboard-input-wdf-filter-driver-kbfiltr/">HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class{4D36E96B-E325-11CE-BFC1-08002BE10318}\UpperFilters</a></p>
+<p>But beware .... the format <em>while editing</em> is ..... one item per line</p>
+<p>&quot;kbdclass kbfilter&quot; .... this indeed makes it work !!!</p>
+<p>Wrong value and you lose keyboard !!!!!</p>
+<ul>
+<li>devmgr one can observe, manually remove.</li>
+</ul>
+<h2 id="so-what-works">So, what works?</h2>
+<p>deploy (from VS). Then  just &quot;Update&quot; the driver of the PS/2 keyboard device...</p>
+<p>if it says &quot;Already up-to-date&quot; then your HW-id is wrong!!! So update the *inf with correct value.</p>
+<p>and Registry -- irrelevant.</p>
+<a href="working-kbfiltr.png">
+<img src="working-kbfiltr.png" alt="kbfiltr in Device Manager" width="100%">
+</a>
+<p>WdfDriverCreate <a href="https://stackoverflow.com/questions/38231468/kmdf-wdfdrivercreate-function-returns-insufficient-resources">was failing with 0xC000009A</a> so disable the verification.</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

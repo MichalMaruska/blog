@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  System to keep a hierarchy of modifications for public software.
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2012-10-12</strong></p>
+<h1 id="system-to-keep-a-hierarchy-of-modifications-for-public-software">System to keep a hierarchy of modifications for public software.</h1>
+<h2 id="system-to-keep-a-hierarchy-of-modifications-for-public-software-1">System to keep a hierarchy of modifications for public software.</h2>
+<p>I have developed a few extensions to free/open software, over past years.</p>
+<p>Doing so in spare time, my priority was to get the features done,<br />
+at the cost of code quality, sharing(?).</p>
+<p>During years, naturally, a need arose to re-apply those big patches to<br />
+evolving upstream sources.</p>
+<p>So, inspired by Debian, I started to experiment with <em>Quilt</em>, and<br />
+represented my modifications as progressions of patches.</p>
+<p>But there were certain projects, where my changes were so big,<br />
+that I was not able to extract such a linear sequence without<br />
+additional tools.</p>
+<p>With the help of Git and especially <em>Magit</em>, I started to<br />
+classify separate diff hunks, then group those classified as related<br />
+and regroup etc.</p>
+<p>  (I did this for my changes to Sawfish WM).</p>
+<p>The whole set of changes grew to be  layers of changes, some dependent<br />
+on previous ones;  not a previous one, but more of them.</p>
+<p>So I wanted to understand this partial ordering, and somehow represent it in Git.</p>
+<p>The benefit for this would be easier future rebasing upon new upstream,<br />
+since rebasing smaller parts requires  less knowledge (decisions) at a time. And<br />
+some of my features can be also implemented upstream -- so I can just drop that<br />
+part of my changes, and  adapt/rework the rest.</p>
+<p>Single &quot;features&quot; are thus represented as a linear sequence of commits,<br />
+and the dependency between them is represented by &quot;basing&quot; one  &quot;feature&quot;<br />
+on  a merge (commit) of  prerequisite features.</p>
+<p>So, in my current version, I have merges - &quot;sums&quot;, which are just lists<br />
+of features - &quot;segments&quot;. And &quot;segments&quot; are &quot;branches&quot;  with<br />
+a Start commit (a hash id), and a symbolic &quot;base&quot;, which is a &quot;sum&quot;.<br />
+That base-sum can also be a trivial sum -- a simple  segment.</p>
+<p>Rebasing such a hierarchy is a matter of walking in the topological order of<br />
+the dependency (between features -- segments) and sums,<br />
+rebasing them --onto the updated &quot;bases&quot;  or  redoing merges.</p>
+<p><a href="https://github.com/mmaruska/git-hierarchy">Code is here</a></p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Forking -- multitouch on keyboard
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2014-08-19</strong></p>
+<h1 id="forking-multitouch-on-keyboard">Forking -- multitouch on keyboard</h1>
+<p>Multitouch on keyboard is about ... interpreting simultaneous key presses<br />
+in a way that is different from sequential.</p>
+<p>That is pressing 2 keys A+B should be something different from A, followed by B.<br />
+Years ago, I was told focus on the problem of converting one of the<br />
+letters into a modifier, and keep B as is. This has been enough of challenge to implement (properly), and I can share the software now.</p>
+<p>The implementation includes patches to several components of the X-Windows system,
+and configuration tools.</p>
+<p>Here's a diagram of involved parts:</p>
+<p>The most complex part is extension of the Xorg server, to somehow postpone processing key events <em>while</em> maintaining the semantics of Un/Grab requests.</p>
+<p>Since we use the timing of key events, we want to get best precision timestamps on them. Xorg server has to get the monotonic timestamp from the kernel/evdev.<br />
+That implies a bit of patches to input driver(xorg-evdev), and the DDX code to accepts events and put them into the event queue.</p>
+<p>From there we want to plug this new functionality in the heap of machinery which implements auto-repeat, other XKB functionality, and then the Grab/Ungrab ops.</p>
+<p>I have tried to separate, serialize the implementation of these functionalities, using this simple architecture: a linked list of  blocks with this API:<br />
+ (image missing)</p>
+<p>These blocks pass Events  to the next one (in one direction), and in the other direction the information about Grab/Ungrab state is passed.</p>
+<p>Indeed, if no event comes in, time can still be &quot;pushed&quot; through all these plugins,<br />
+so a plugin can also tell how early it is significant to push time to it.</p>
+<p>(work-in-progress).</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

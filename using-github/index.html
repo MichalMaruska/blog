@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Using github: building on github
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2026-04-27</strong></p>
+<h1 id="further-steps-to-deletegate-to-github">Further steps to deletegate to Github</h1>
+<h2 id="i-started-to-build-on-gh">I started to build on GH</h2>
+<p>All I need is build debian packages, and collect them in my repository (reprepro), so
+all my machines can seemlessly install them.</p>
+<h3 id="initial-state">Initial state:</h3>
+<p>Doing both the package builds and assembling them in a pool on my machines, and exporting the
+reprepro (pool, dists) to GH as git, to have it published as gh-pages. But that meant that building
+on arm64 (using this local workflow) required its own clone of the reprepro (git repo), and a way to
+sync them (maintain the db/ part of reprepro),
+and avoid rebuilding arch-independent packages -- unfortunately still not identically --
+on both amd64 and arm64.</p>
+<h3 id="start-let-s-try-to-see-if-it-works-at-all">Start: let's try to see if it works at all</h3>
+<p>Lets invoke a build on the gh cloud and push to the reprepro from the workflow! 
+Give it GPG key (to sign reprepro), SSH key to access
+the central reprepro repository on GH.</p>
+<h3 id="immediately-reprepro-is-needed">Immediately reprepro is needed.</h3>
+<p>It should not be pushing the packages, but instead schedule a job on the &quot;apt-repo&quot;, which retrieves
+the &quot;release artifacts&quot;.</p>
+<h3 id="all-the-satellites-repositories-with-debian-packages-repeat-the-same-workflow-extract-it">all the satellites -- repositories with debian packages -- repeat the same workflow ....extract it</h3>
+<p>That requires having an <strong>Organization</strong> ... move all from personal.</p>
+<h3 id="use-cache-release-instead-of-gh-pages-branch">use cache &amp; release  instead of gh-pages branch.</h3>
+<p>https://github.com/morph027/apt-repo-action  didn't try that</p>
+<h3 id="old-way">Old way:</h3>
+<p>old reprepro: https://github.com/MichalMaruska/michalmaruska.github.io</p>
+<h3 id="new-way">New way:</h3>
+<p>https://github.com/michal-maruska/apt-repo/    main branch with configuration,  gh-pages with the .debs
+https://github.com/michal-maruska/workflows  ...shared workflow</p>
+<p>satellites, which build on release tag, or manually triggered
+https://github.com/orgs/michal-maruska/repositories</p>
+<p>resulting apt repository:
+https://michal-maruska.github.io/apt-repo/</p>
+<p>Publish by Workflow, not by branch (gh-pages).
+https://github.com/actions/upload-pages-artifact</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

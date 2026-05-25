@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Taming Android  am command
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2016-11-26</strong></p>
+<h1 id="taming-android-am-command">Taming Android  am command</h1>
+<p>In Android an intent can carry data of a certain mime type.
+To test this feature, I had an App which sets up an <a href="https://developer.android.com/reference/android/content/IntentFilter.html">IntentFilter</a>, and then I would manually trigger it:</p>
+<pre data-lang="sh" style="background-color:#2b303b;color:#c0c5ce;" class="language-sh "><code class="language-sh" data-lang="sh"><span>&gt; am </span><span style="color:#bf616a;">broadcast -t</span><span> text/xml</span><span style="color:#bf616a;"> -a</span><span> my.action.START</span><span style="color:#bf616a;"> -d </span><span>&quot;</span><span style="color:#a3be8c;">file:///system/usr/share/mmc/settings.xml</span><span>&quot;
+</span></code></pre>
+<p>It did not work, so I had to read better about <a href="https://developer.android.com/studio/command-line/adb.html#am">am options</a>:</p>
+<p>So I learned about <code>FLAG_DEBUG_LOG_RESOLUTION</code>(I also saw it in the <a href="https://github.com/cozybit/aosp-frameworks-base/blob/master/services/java/com/android/server/IntentResolver.java#L207">sources)</a>. So I added &quot;-t 8&quot; as option.
+Then I saw that the type used during the matching was Null, so I verified the binder transaction code:<a href="https://github.com/android/platform_frameworks_base/blob/master/core/java/android/app/ActivityManagerNative.java#L486">reading from binder tx data</a> and <a href="https://github.com/android/platform_frameworks_base/blob/master/core/java/android/app/ActivityManagerNative.java#L3495">writing tx data</a> Here the writing:</p>
+<pre data-lang="java" style="background-color:#2b303b;color:#c0c5ce;" class="language-java "><code class="language-java" data-lang="java"><span>&gt; #### </span><span style="color:#ebcb8b;">ActivityManagerProxy </span><span style="color:#bf616a;">broadcastIntent</span><span>().... intent.</span><span style="color:#bf616a;">writeToParcel</span><span>(data, </span><span style="color:#d08770;">0</span><span>); </span><span style="color:#65737e;">// serializes the Intent data.writeString(resolvedType); // separately adds the type
+</span></code></pre>
+<p>So the type has to be delivered separately, but <strong><a href="https://github.com/android/platform_frameworks_base/blob/master/cmds/am/src/com/android/commands/am/Am.java#L772">am</a></strong> does not do it:</p>
+<pre data-lang="java" style="background-color:#2b303b;color:#c0c5ce;" class="language-java "><code class="language-java" data-lang="java"><span>&gt; #### </span><span style="color:#b48ead;">private</span><span> void </span><span style="color:#bf616a;">sendBroadcast</span><span>() throws </span><span style="color:#ebcb8b;">Exception
+</span><span>{
+</span><span style="color:#ebcb8b;">Intent</span><span> intent = </span><span style="color:#bf616a;">makeIntent</span><span>(</span><span style="color:#ebcb8b;">UserHandle</span><span>.</span><span style="color:#d08770;">USER</span><span>\</span><span style="color:#d08770;">_CURRENT</span><span>);
+</span><span style="color:#ebcb8b;">IntentReceiver</span><span> receiver = </span><span style="color:#b48ead;">new </span><span style="color:#ebcb8b;">IntentReceiver</span><span>();
+</span><span style="color:#ebcb8b;">System</span><span>.out.</span><span style="color:#bf616a;">println</span><span>(&quot;</span><span style="color:#a3be8c;">Broadcasting: </span><span>&quot; + intent);
+</span><span style="color:#65737e;">// this is the fix null -&gt; intent.getType()
+</span><span>mAm.</span><span style="color:#bf616a;">broadcastIntent</span><span>(</span><span style="color:#d08770;">null</span><span>, intent, </span><span style="color:#65737e;">/* null */</span><span> intent.</span><span style="color:#bf616a;">getType</span><span>(), receiver, </span><span style="color:#d08770;">0</span><span>,
+</span><span>    </span><span style="color:#d08770;">null</span><span>, </span><span style="color:#d08770;">null</span><span>, mReceiverPermission, android.app.</span><span style="color:#ebcb8b;">AppOpsManager</span><span>.</span><span style="color:#d08770;">OP</span><span>\</span><span style="color:#d08770;">_NONE</span><span>, </span><span style="color:#d08770;">true</span><span>, </span><span style="color:#d08770;">false</span><span>, mUserId);
+</span><span>receiver.</span><span style="color:#bf616a;">waitForFinish</span><span>(); }
+</span></code></pre>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

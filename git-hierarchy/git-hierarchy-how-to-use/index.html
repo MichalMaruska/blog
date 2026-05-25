@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Git-hierarchy  --- how to use
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2012-11-25</strong></p>
+<h1 id="git-hierarchy-how-to-use">Git-hierarchy  --- how to use</h1>
+<p>Documentation on <a href="https://github.com/MichalMaruska-TomTom/git-hierarchy">git-hierarchy</a>.</p>
+<h3 id="definitions">Definitions:</h3>
+<p>Note: when I say branch, I mean the named head.</p>
+<p>A &quot;feature branch&quot;, or a <strong>segment</strong>, is a triple:<br />
+1/ branch<br />
+2/ <em>start</em> commit reference. (points to a real commit - sha1-hash)<br />
+3/ <em>base</em> symbolic reference -- name of branch to re-base it on.</p>
+<p>A <strong>sum</strong> is a branch name and a list of <em>summands</em> -- symbolic references<br />
+of branches, which should be (re-)merged to form the &quot;unique commit&quot; of the branch.</p>
+<p>Sums are handy for:</p>
+<ul>
+<li>the final release commit</li>
+<li>as the &quot;base&quot; reference for segments.</li>
+</ul>
+<p><strong>poset</strong>: the partial ordering of (relevant) heads, induced by:<br />
+ segment-head <strong>&gt;</strong> the head referenced by the base symref.<br />
+ sum-head <strong>&gt;</strong> each of the heads referenced by the list of summands.</p>
+<h3 id="operations">Operations:</h3>
+<p>git-segment  list, describe, create segments, split<br />
+git-sum    list, describe, create, modify  sums</p>
+<p>git-rebase-poset the main tool -- rebase/remerge all the sums &amp; segments.<br />
+so that for each segment  <em>start</em> is (again) equal to <em>base</em>, and sum-heads commits are joins of the summands.</p>
+<p>git-rename  .. when renaming branches, rename the whole segment/sum, or<br />
+               update the other symbolic references to reference the changed  name.</p>
+<p>git-delete  .. check if possible to delete the sum/segment, or if anything is<br />
+               referencing it -&gt; abort.</p>
+<h3 id="implementation">Implementation:</h3>
+<p>start ... could have used tags. not now.<br />
+bases ... symbolic references; ex.  ref/base/antiflicker points at &quot;ref: refs/heads/master&quot;.</p>
+<p>summands ... symbolic refs. ex.  ref/sum/all/1  points at &quot;ref: refs/heads/antiflicker&quot;,        ref/sum/all/2 points at &quot;ref: refs/heads/auto-raise ...</p>
+<h3 id="transferring-to-other-repos">Transferring to other repos</h3>
+<p>For now it's only a tool for individual use. There are some limitations in Git, which I had to work around:</p>
+<ul>
+<li>&quot;git push&quot; resolves symbolic refs before sending them.</li>
+<li>&quot;git fetch&quot; from GitHub does not fetch refs other than tags &amp; branches.</li>
+</ul>
+<p>So, if I want to at least transfer the structure, I need to patch git, or use this trick:</p>
+<p>I can for example make a tag whose message -- as string -- is a table - dump of the symrefs:<br />
+sym-ref-name      ref: .....</p>
+<p>git tag &quot;hierarchy-refs&quot; -m &quot;$(git-dump-refs)&quot;<br />
+and on fetching:<br />
+git cat-file tag hierarchy-refs |tail -n +6 |  git-recover-symbolic-refs</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

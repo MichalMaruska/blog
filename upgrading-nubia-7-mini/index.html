@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Upgrading Nubia 7 mini
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2017-05-29</strong></p>
+<h1 id="upgrading-nubia-7-mini">Upgrading Nubia 7 mini</h1>
+<p>I recently bought this  phone on <a href="http://www.marktplaats.nl/">marktplaats</a>, already upgraded to Mokee Android 7. I liked the features, my previous phone used Android 4.2.<br />
+So I bought another one for my wife, this time I had to make the upgrade myself. It was not straightforward:</p>
+<p>The first nubia used as recovery  TWRP 3.0.2-0, the other is with clockwork-mod (v6.0.5.0).</p>
+<ul>
+<li>I had to resize the big &quot;grow&quot; partition manually, i.e. merge it with &quot;userdata&quot;.</li>
+<li>suddenly I saw disconnections of Wifi, and that was due to the same MAC address of the 2 nubias.</li>
+</ul>
+<h3 id="mac-address">MAC address</h3>
+<p>So I searched for a solution to tune the MAC address. I found the hint on Intf0MacAddress in WCNSS_qcom_cfg.ini. But it did not work.</p>
+<blockquote>
+<p>/data/misc/wifi/WCNSS_qcom_cfg.ini  nor  /system/etc/wifi/WCNSS_qcom_cfg.ini</p>
+</blockquote>
+<p>So I had a workaround to</p>
+<blockquote>
+<p>echo 98:6c:f5:63:ec:d0 &gt; /sys/devices/fb000000.qcom,wcnss-wlan/wcnss_mac_addr</p>
+</blockquote>
+<p>while in airplane mode.<br />
+In the end I  found /persist/WCNSS_qcom_cfg.ini which indeed works, and overrides the other 2 files.</p>
+<h3 id="android-serial-to-distinguish-them">ANDROID_SERIAL to distinguish them?</h3>
+<p>To have them accessible via adb at the same time, I need to distinguish by this serial number, which is unfortunately identical. For now I overwrite the kernel cmdline in img_info with &quot;androidboot.serialno=XXX&quot;</p>
+<h3 id="proximity-sensor">Proximity sensor</h3>
+<p>After receiving some (whatsapp) calls, I noticed it was almost impossible to get the screen back on, as expected.</p>
+<p>So, as a workaround I turned off  in Phone&gt; Settings&gt; Accessibility&gt; Use proximity sensor.</p>
+<p>But Whatsapp does not seem to have this option.</p>
+<p>So I installed <a href="https://play.google.com/store/apps/details?id=asd.vector.sensor&amp;hl=en">Sensors test</a> and some app to &quot;reset/calibrate&quot; but to no effect.</p>
+<p>So I started to look for the kernel driver, to fix a possible bug. There are confusingly multiple kernel sources on github:</p>
+<ol>
+<li><a href="https://github.com/nx507j-dev/android_kernel_nubia_nx507j">https://github.com/nx507j-dev/android_kernel_nubia_nx507j</a></li>
+<li><a href="https://github.com/ztemt/NX507J_5.1_kernel">https://github.com/ztemt/NX507J_5.1_kernel</a></li>
+<li><a href="https://github.com/MoKee/android_kernel_nubia_nx507j.git">https://github.com/MoKee/android_kernel_nubia_nx507j.git</a></li>
+<li><a href="https://github.com/MoKee/android_kernel_zte_nx507j.git">https://github.com/MoKee/android_kernel_zte_nx507j.git</a></li>
+</ol>
+<p>The 3rd is the one used on Mokee (my fixes in <a href="https://github.com/mmaruska/android_kernel_nubia_nx507j">https://github.com/mmaruska/android_kernel_nubia_nx507j</a>). The other ones fail when (Android) &quot;init&quot; configures (selinux) sepolicy.</p>
+<p>Btw. failures of the other kernels can be seen thanks to android ram-console: after the failure, the phone reboots to recovery and</p>
+<blockquote>
+<p>adb shell cat /proc/last_kmsg</p>
+</blockquote>
+<p>shows the problem.</p>
+<p>In the end the problems is only the calibration, so</p>
+<blockquote>
+<p> echo 500 &gt; prox_threshold_low</p>
+</blockquote>
+<p>fixes the issue. To see this value, I did:</p>
+<blockquote>
+<p>cd /sys/class/proximity/proximity/<br />
+echo 1 &gt; prox_debug</p>
+</blockquote>
+<p>and &quot;dmesg -c&quot; while running the sensor test app, to see:</p>
+<blockquote>
+<p>[43580.286869] [SENSOR_ALS_PROX] [taos_prox_threshold_set: 2338] proxdata = 396</p>
+</blockquote>
+<p>I guess it's stored in /persist/proxdata/threshold ?</p>
+<h3 id="other-issues">Other issues</h3>
+<h4 id="calendar-alarm-database-crash-when-entering-the-alarm-app">calendar/alarm database -- crash when entering the Alarm app:</h4>
+<blockquote>
+<p>android.database.sqlite.SQLiteException: Can't downgrade database from version 12 to 8</p>
+</blockquote>
+<p>I removed the relevant file.</p>
+<h4 id="systemui-crash-due-to-wallpaper-using-too-big-image">SystemUI crash due to wallpaper using too big image</h4>
+<blockquote>
+<p>java.lang.RuntimeException: Canvas: trying to draw too large(143769600bytes) bitmap.<br />
+....<br />
+AppCrashReceiver: com.android.systemui stopped unexpectedly...</p>
+</blockquote>
+<p>rm  /data/system/user/0/wallpaper_*</p>
+<p>My improvements (divided into feature-segments) <a href="https://github.com/mmaruska/android_kernel_nubia_nx507j/network">https://github.com/mmaruska/android_kernel_nubia_nx507j/network</a></p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

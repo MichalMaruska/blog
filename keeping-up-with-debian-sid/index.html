@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Keeping up with debian Sid
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2017-09-11</strong></p>
+<h1 id="keeping-up-with-debian-sid">Keeping up with debian Sid</h1>
+<h2 id="my-small-build-system">My small build system</h2>
+<p>I need to replace some distro packages with my improvements.</p>
+<p>For this I need to patch the sources -- I only handle git. I need to be notified, warned, when a new version is needed.</p>
+<p>So I patched <a href="https://github.com/mmaruska/apt/commits/maruska">apt</a> to report when a switch from my version to the upstream would happen (due to  &quot;<strong>apt dist-upgrade&quot;).</strong></p>
+<p>In such a case I run my  <a href="https://github.com/mmaruska/git-hierarchy">git-rebase-origin</a> which rebases my feature poset (of feature branches/segments mixed into &quot;merges&quot;) over a refreshed remote branch.</p>
+<p>Then I run <a href="https://github.com/mmaruska/mmc-build-system">my scripts</a> to invoke <a href="http://honk.sigxcpu.org/projects/git-buildpackage/manual-html/gbp.html">gbp</a>(1) with a suitable version string, and create the deb packages &amp; put them in reprepro.</p>
+<p>the sequence of commands to maintain apt itself:</p>
+<p><strong>$ cd ~/git/apt/<br />
+$ git-rebase-origin</strong></p>
+<h1 id="this-deduces-the-upstream-base-of-my-feature-branches">this deduces the upstream -- base of my feature branches.</h1>
+<p><strong>$ release</strong></p>
+<h1 id="this-detects-i-m-building-my-extension-of-upstream-debian-package-so-deduces-the-correct-version-build-uploads-tags-pushes-installs">this detects I'm building my extension of upstream debian package, so deduces the correct version, build, uploads, tags, pushes, installs.</h1>
+<p>When I only want to test some changes, I run</p>
+<p>$ <strong>snap</strong></p>
+<p>which creates a .deb package, installs it, withouth any reprepro etc.</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>
