@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Second 4 months of Rust
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2026-01-28</strong></p>
+<h1 id="second-4-months-of-rust">Second 4 months of Rust</h1>
+<h2 id="macros">Macros</h2>
+<h2 id="clap">CLAP</h2>
+<h2 id="using-clippy">Using Clippy</h2>
+<h2 id="std">Std...</h2>
+<p>Reading the pages .....traits defined, Enums, Structs .... and (generic) definitions of the trait for EXTERNAL types. That's why it's listed there, not in the page of those types.</p>
+<p><strong>Any</strong> .....using</p>
+<p>intrinsics::type_id::<T>()</p>
+<h2 id="hashmap">HashMap ...</h2>
+<h2 id="tricking-the-hashmap-ivan-dubrov"><a href="https://idubrov.name/rust/2018/06/01/tricking-the-hashmap.html">Tricking the HashMap | Ivan Dubrov</a></h2>
+<h2 id=""></h2>
+<h2 id="sized">!Sized</h2>
+<p>Generics parameters implicitly constrained to Sized</p>
+<h2 id="iterators">- iterators</h2>
+<h2 id="-1">-</h2>
+<h2 id="error-handling">Error handling</h2>
+<p>Option -&gt; Result</p>
+<p><a href="https://michalmaruska.github.io/blog/second-4-months-of-rust/%C2%A0https://doc.rust-lang.org/std/result/enum.Result.html">std::Result</a></p>
+<p>? expands to ..... return Err(From::from(e))</p>
+<h3 id="defining-new-error-types-out-of-lower-level-ones">Defining new error types out of lower-level ones:</h3>
+<p><a href="https://www.youtube.com/watch?v=sZV6sz4P6QY">YT: Mastering Error Handling in Rust: From Panics to thiserror &amp; anyhow | with Nathan Stocks</a></p>
+<p>#[non_exhaustive]</p>
+<p>thiserror   -&gt;</p>
+<blockquote>
+<p>#[derive(Error)]</p>
+</blockquote>
+<p>      #[error(&quot;message&quot;)]</p>
+<p>      ....#[from:] ...</p>
+<p>and we can use  <a href="https://docs.rs/derive_more/latest/derive_more/">derive_more::Error</a></p>
+<p><a href="https://doc.rust-lang.org/core/error/trait.Error.html">Error trait</a> enables the nesting:</p>
+<ul>
+<li>source()</li>
+<li>provide()   default to None, but can be implemented</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=s5S2Ed5T-dc">YT: A Simpler Way to See Results</a></p>
+<p>Anyhow:</p>
+<p><a href="https://docs.rs/anyhow/latest/anyhow/index.html">https://docs.rs/anyhow/latest/anyhow/index.html</a></p>
+<p><a href="https://github.com/dtolnay/thiserror">thiserror</a>:  derive macro to have custom error and transformation from other Error types.</p>
+<h4 id="clarifying-references-with-claude-io">Clarifying references with  Claude.io:</h4>
+<p>https://doc.rust-lang.org/std/primitive.reference.html</p>
+<p>Prompts:</p>
+<p>Rust references implement all certain traits Copy, Clone etc ..... is it because those traits have only &amp;self methods?<br />
+.....  <br />
+Yes,true. Those specific Traits are implemented by the definition/semantics of References.  What I meant is the other Traits which .... references having Deref... when implemented for T and containing only &amp;self methods, are therefore implemented for &amp;T.  Or is there anything more profound on that?</p>
+<p>Now I know:</p>
+<blockquote>
+<p>A trait being callable through &amp;T doesn't mean &amp;T implements that trait in the type system's eyes.</p>
+</blockquote>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

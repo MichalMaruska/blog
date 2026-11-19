@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Building the Forking X server
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2014-10-16</strong></p>
+<h1 id="building-the-forking-x-server">Building the Forking X server</h1>
+<h2 id="building-the-forking-x-server-1">Building the Forking X server</h2>
+<p>I work on Debian (Sid), so the Git repositories contain debian/ and  packages are built by git-buildpackage as documented in another post.</p>
+<p>You can also install by using my debian repository:<br />
+deb http://www.ruska.it/~michal/reprepro sid main</p>
+<p>I did not implement a new Extension - I extended the protocol of XKB.<br />
+So, first build the x11proto-kb-dev package</p>
+<ul>
+<li>https://github.com/mmaruska/x11proto-kb</li>
+</ul>
+<p>Now it's possible to build both libX11 and the server:</p>
+<ul>
+<li>https://github.com/mmaruska/xserver</li>
+</ul>
+<p>Since the ABI between the server and &quot;input device&quot; driver, it's necessary to recompile them. I use only evdev &amp; synaptics. But, evdev is used for the keyboard, and I need precise timestamps, so there are changes, hence build from this repo:</p>
+<ul>
+<li>https://github.com/mmaruska/xserver-xorg-input-evdev</li>
+</ul>
+<p>At this point the Xserver could be restarted. After building the X11 from:</p>
+<ul>
+<li>
+<p>https://github.com/mmaruska/libX11.git</p>
+<p>one can start asking the X server about the active plugins. There is a tool for that:</p>
+</li>
+<li>
+<p>https://github.com/mmaruska/xplugin</p>
+</li>
+</ul>
+<p>At this point it is possible to:</p>
+<p>$ xinput list</p>
+<p>....Virtual core keyboard                       id=3    [master keyboard (2)]</p>
+<p>...</p>
+<p>$  xplugin -l -d 3</p>
+<p>3 plugins in the pipeline</p>
+<p>1: never-freeze-queue</p>
+<p>2: xkb-auto-repeat</p>
+<p>0: core</p>
+<h4 id="the-function-of-each-plugin">The function of each plugin:</h4>
+<p><strong>never-freeze-queue</strong> collects events while waiting for following plugins to proceed (&amp; accept the events).  <strong>xkb-auto-repeat</strong> generates the auto-repeat events, <strong>core</strong> is the interface with dix/events.c.</p>
+<p>Now we can finaly build the interesting feature: the &quot;<strong>fork</strong>&quot; plugin to be inserted before the auto-repeat plugin. It is implemented in C++ which explains some effort in the X server and x11proto-kb sources to make them C++ compatible.</p>
+<p>So:</p>
+<ul>
+<li>https://github.com/mmaruska/fork-plugin</li>
+</ul>
+<p>so after building (&amp; installing) you can insert that plugin:</p>
+<p>$ xplugin -d 3 fork       # 3 is still the id of keyboard.<br />
+or also remove it:<br />
+$ xplugin -d 3 -fork</p>
+<p>Now to activate some of the forks we need to communicate with that plugin,</p>
+<p>and build up a language to express the configuration.</p>
+<ul>
+<li>https://github.com/mmaruska/libfork</li>
+</ul>
+<p>For the configuration language, I chose to use Scheme, in the Gauche implementation. So, one needs to install Gauche-dev, and build this binding module:</p>
+<ul>
+<li>https://github.com/mmaruska/gauche-xlib</li>
+</ul>
+<p>building that one is more involved (see my blog about building Gauche modules).</p>
+<p>That packages contains my configuration to be used this way:</p>
+<p>$ fork-config-mmc.scm 3</p>
+<p>When trying to configure, keep in mind, that allocation of the &quot;fork&quot; keycodes</p>
+<p>is possible only if the XKB Geometry allows it. I.e. keycodes not found on the Geometry will be used.</p>
+<p>See in https://github.com/mmaruska/gauche-xlib/blob/master/bin/fork-config-mmc.scm how key &quot;f&quot; is used as Hyper modifier, or how Meta key acts as Escape key.</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

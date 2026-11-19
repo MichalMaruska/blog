@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Shell skeletons
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2013-05-17</strong></p>
+<h1 id="shell-skeletons">Shell skeletons</h1>
+<h2 id="shell-skeletons-a-tool-to-start-using-a-sequence-of-commands">Shell skeletons --- a tool to start using a sequence of commands</h2>
+<p>When I started to build debian packages from Git, I adopted <a href="http://honk.sigxcpu.org/projects/git-buildpackage/manual-html/gbp.html">git-buildpackage</a>.<br />
+The steps I used were (at least) 7:</p>
+<ul>
+<li>git-dch  --release &quot;--debian-tag=michal/%(version)s&quot;</li>
+<li>git add debian/changelog;</li>
+<li>git commit -m release</li>
+<li>git-buildpackage --git-tag &quot;--git-debian-tag=michal/%(version)s&quot;</li>
+<li>debi --debs-dir ../build-area/</li>
+<li>git-buildpackage -S</li>
+<li>debrelease -S  --debs-dir=../build-area --dput</li>
+</ul>
+<p>I had this recipe in a file/editor, and pasted line by line into shell, possibly adapting the text, and then invoked.<br />
+In case of error I could reinvoke the command, with some modification.</p>
+<p>Then I learned that with Zsh, I can programmatically use that feature which implements C-q (push-line):  there is a stack which I can pre-populate, and then<br />
+ZLE will  prefill the command line by popping the strings from the stack.</p>
+<p>So I came up with this function:</p>
+<pre data-lang="zsh" style="background-color:#2b303b;color:#c0c5ce;" class="language-zsh "><code class="language-zsh" data-lang="zsh"><span style="color:#8fa1b3;">zload-file </span><span>() {  
+</span><span>        </span><span style="color:#bf616a;">file</span><span>=$</span><span style="color:#bf616a;">1  
+</span><span>        </span><span style="color:#bf616a;">setopt</span><span> nomonitor  
+</span><span>        </span><span style="color:#b48ead;">coproc </span><span style="color:#bf616a;">tac </span><span>$</span><span style="color:#bf616a;">file </span><span>&amp;|  
+</span><span>        </span><span style="color:#b48ead;">while </span><span style="color:#96b5b4;">read</span><span> line  
+</span><span>        </span><span style="color:#b48ead;">do  
+</span><span>                </span><span style="color:#96b5b4;">builtin</span><span> print -z $</span><span style="color:#bf616a;">line  
+</span><span>        </span><span style="color:#b48ead;">done </span><span>&lt;&amp;p  
+</span><span>        </span><span style="color:#96b5b4;">wait  
+</span><span>        </span><span style="color:#bf616a;">setopt</span><span> monitor  
+</span><span>}  
+</span></code></pre>
+<p>Sure, I have to put the lines in reverser order -- the last one to be pushed as first, so that it ends at the bottom.</p>
+<p>PS: After a while I learned/realized all the arguments of those commands, and made scripts (release &amp; snapshot) which hide all the details, and expose different set of options-- those which I care about.</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

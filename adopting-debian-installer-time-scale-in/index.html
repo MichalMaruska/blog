@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  debian-installer: story of abandoning own tool
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2023-09-04</strong></p>
+<p>I used to install SID with a series of shell scripts. Then abandoned in favour of learning multiple projects and combining them.</p>
+<h2 id="adopting-debian-installer-time-scale">Adopting Debian Installer  (time scale)</h2>
+<p>In 2016 I started to formalize the way I want to replicate my debian installation on other PCs. I think I needed that once per year.</p>
+<p>That is indicated by git commits of a repo with numbered scripts -- stages of installing debian &amp; my expected packages &amp; modifications, after booting with a usb flash drive.</p>
+<p>Disk-partitioning was hard (shrinking Windows partitions), configuring apt also forever evolving.</p>
+<p>Prior to that I would have just reattach the disks and copied the filesystem.</p>
+<p>After 6 years, in 2022 (having used those tools about 10 times) I started to suspect I could spend my time better by learning &amp; fixing a publicly developed tool.</p>
+<p>And indeed in April 2023 I tried out the <a href="https://www.debian.org/releases/stable/amd64/index.en.html">debian-installer</a> (the &quot;hd-media&quot; option), with some pre-seeding.</p>
+<p>Then I needed more than pre-seed &amp; targeting <em>unstable</em>/SID: I wanted to understand all possible disk encryption setups, and using my additional <a href="https://github.com/MichalMaruska/michalmaruska.github.io">apt repository</a> (+ apt configuration).</p>
+<h2 id="experiments">Experiments</h2>
+<p>So, I was using the build system in <a href="https://salsa.debian.org/installer-team/debian-installer.git">debian-installer</a> (to build customizations) and decided to use a virtual PC (KVM-qemu) to quickly test the result.</p>
+<p>I had to overcome <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=940801">bug 940801</a></p>
+<p>I could test the partitioning with encryption on a virtual disk (10GB).</p>
+<ul>
+<li>Started to wonder about having &quot;udeb&quot; packages in my reprepro.</li>
+<li>Not really sure what is inside &quot;mini.iso&quot;, maybe all is inside the initrd?</li>
+</ul>
+<h3 id="setting-up-pxe">Setting up PXE</h3>
+<p>I wanted to also avoid using flash drives/sd-cards  -- using PXE seems more elegant. Also using netboot rather than hd-media seems a nice simplification.</p>
+<p>But there's a catch: this requires modifying DHCP server (which I cannot do on my main modem/route), and I didn't want to set a separate dhcp just for this use-case (on a linux box, with the only connection to the booting PC).</p>
+<p>Anyway, I started still with KVM -- a new &quot;bridge&quot; with dhcp pointing at local tftp.</p>
+<p>I had to use signed grub to boot with secure-boot.</p>
+<h3 id="going-for-physical-pc">Going for physical PC</h3>
+<p>So I installed <strong>dd-wrt</strong> on another router/wifi access point, and detached from its &quot;bridge&quot; between all LAN connectors one connector which is then serviced by a new dhcp server, and advertises the necessary option for PXE boot.</p>
+<h2 id="first-successful-run">First successful run</h2>
+<p>I included a custom udeb: I needed a modified &quot;<a href="https://salsa.debian.org/installer-team/choose-mirror.git">choose-mirror</a>&quot; to debug still flaky pre-seed configuration of the net interface.</p>
+<p>Partitioning seems intuitive (once you want to use the same key for both Swap &amp; Root fs).</p>
+<p>Choose the minimal (ssh server, standard), and after the reboot do still some manual copying, apt configuration, and finally install my &quot;<a href="https://github.com/MichalMaruska-TomTom/maruska-top">top</a>&quot; virtual packages.</p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

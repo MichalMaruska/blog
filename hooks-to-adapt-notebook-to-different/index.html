@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Hooks to adapt a notebook to different conditions
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2013-10-09</strong></p>
+<h1 id="hooks-to-adapt-a-notebook-to-different-conditions">Hooks to adapt a notebook to different conditions</h1>
+<p>So, I use Ubuntu 12.04 on my notebook.</p>
+<p>Here a list of (shell) hooks I implemented to make the system adapt to &quot;the environment&quot;. Only the minimum relevant code</p>
+<ul>
+<li>
+<p>Open/close lid -&gt; internal screen on/off<br />
+/etc/acpi/local/lid.sh.pre<br />
+DISPLAY=:0
+grep -q closed /proc/acpi/button/lid/*/state<br />
+xrandr -display $DISPLAY --output $internal --off</p>
+</li>
+<li>
+<p>When (un)docked -&gt; external monitor on/off.  un/docking detected by AC online. No other way found (with Dell latitude e*)</p>
+<p>/etc/acpi/power.sh</p>
+<p>if [ $(cat /sys/class/power_supply/AC/online) = &quot;1&quot; ]; then<br />
+DISPLAY=:0 xrandr --output DP-1 --auto --rotate left</p>
+</li>
+<li>
+<p>Turn audio off/on  when on office network/at home:<br />
+/etc/dhcp/dhclient-enter-hooks.d/  does not work with NM (see <a href="https://bugzilla.gnome.org/show_bug.cgi?id=709247">https://bugzilla.gnome.org/show_bug.cgi?id=709247</a> )<br />
+So /etc/network/if-up.d/mute-in-office</p>
+<p> if [ ${DHCP4_DOMAIN_NAME-} = 'domain.name' ];<br />
+   amixer set Master mute<br />
+ elif [ ${CONNECTION_ID-} = &quot;home-ssid&quot; ];<br />
+        amixer set Master unmute<br />
+        amixer set Front unmute<br />
+        amixer set Headphone unmute</p>
+</li>
+<li>
+<p>prevent Skype from animating (in gnome-panel) when offline<br />
+skype without any dbus  access?</p>
+<p>/etc/network/if-post-down.d/stop-skype<br />
+sleep 10s<br />
+killall -STOP skype</p>
+<p>/etc/network/if-up.d/resume-skype<br />
+killall -CONT skype</p>
+</li>
+<li>
+<p>keep cpu at minimum<br />
+/etc/pm/sleep.d/20-cpuspeed<br />
+case &quot;$1&quot; in<br />
+        resume | thaw)<br />
+sudo cpufreq-set --governor powersave<br />
+foreach dir (/sys/devices/system/cpu/cpu*/cpufreq/) {<br />
+   echo powersave | sudo tee $dir/scaling_governor<br />
+   echo 1199000 | sudo tee $dir/scaling_min_freq<br />
+...<br />
+#sudo hdparm -Y /dev/sdb</p>
+</li>
+</ul>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

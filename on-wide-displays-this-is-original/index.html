@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MM Blog</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      
+<h1 class="title">
+  Gitk on wide displays
+</h1>
+<a href="../">up</a>
+
+<p class="subtitle"><strong>2026-02-12</strong></p>
+<h1 id="gitk-on-wide-displays">Gitk on wide displays</h1>
+<h2 id="gitk-on-wide-displays-1">Gitk on wide displays</h2>
+<p>This is the original layout of gitk:</p>
+<a href="gitk-vertical.png">
+<img src="gitk-vertical.png" alt="modified: side by side" width="100%">
+</a>
+<p>I realized (years ago) that I want to see more of the code lines, and also the history (just the message).
+They are competing for the height, while there is abundant space to the sides. Bad layout.</p>
+<p>It's better to keep the narrow history <strong>list</strong> to the side, while the main <strong>diff pane</strong> should use the full height.</p>
+<a href="gitk-wide.png">
+<img src="gitk-wide.png" alt="modified: side by side" width="100%">
+</a>
+<p>The changes are in <a href="https://github.com/MichalMaruska/git/commits/gitk-wide/">gitk-wide branch</a></p>
+<p>Update 2026: I started to convert this tcl into Rust/egui <a href="https://github.com/MichalMaruska/gitk-rs">project</a></p>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="MichalMaruska/comments"
+        data-repo-id="R_kgDORsICcQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORsICcc4C42pf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+    </div>
+  </section>
+</body>
+
+</html>

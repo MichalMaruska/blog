@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://michalmaruska.github.io/blog/sitemap.xml
